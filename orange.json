@@ -1,0 +1,482 @@
+[
+    {
+        "Wilaya Number": 1,
+        "Wilaya Name": "ADRAR",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 2,
+        "Wilaya Name": "CHLEF",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 4928,
+                "Production (qx)": 1430755
+            }
+        }
+    },
+    {
+        "Wilaya Number": 3,
+        "Wilaya Name": "LAGHOUAT",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 2,
+                "Production (qx)": 110
+            }
+        }
+    },
+    {
+        "Wilaya Number": 4,
+        "Wilaya Name": "O.E.BOUAGHI",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 5,
+        "Wilaya Name": "BATNA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 6,
+        "Wilaya Name": "BEJAIA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 1453,
+                "Production (qx)": 286014
+            }
+        }
+    },
+    {
+        "Wilaya Number": 7,
+        "Wilaya Name": "BISKRA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 10,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 8,
+        "Wilaya Name": "BECHAR",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 13,
+                "Production (qx)": 1898
+            }
+        }
+    },
+    {
+        "Wilaya Number": 9,
+        "Wilaya Name": "BLIDA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 11779,
+                "Production (qx)": 3046682
+            }
+        }
+    },
+    {
+        "Wilaya Number": 10,
+        "Wilaya Name": "BOUIRA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 322,
+                "Production (qx)": 46665
+            }
+        }
+    },
+    {
+        "Wilaya Number": 11,
+        "Wilaya Name": "TAMANRASSET",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 20,
+                "Production (qx)": 849
+            }
+        }
+    },
+    {
+        "Wilaya Number": 12,
+        "Wilaya Name": "TEBESSA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 13,
+        "Wilaya Name": "TLEMCEN",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 2101,
+                "Production (qx)": 658080
+            }
+        }
+    },
+    {
+        "Wilaya Number": 14,
+        "Wilaya Name": "TIARET",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 15,
+        "Wilaya Name": "TIZI-OUZOU",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 1215,
+                "Production (qx)": 481450
+            }
+        }
+    },
+    {
+        "Wilaya Number": 16,
+        "Wilaya Name": "ALGER",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 3760,
+                "Production (qx)": 817150
+            }
+        }
+    },
+    {
+        "Wilaya Number": 17,
+        "Wilaya Name": "DJELFA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 18,
+        "Wilaya Name": "JIJEL",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 226,
+                "Production (qx)": 57722
+            }
+        }
+    },
+    {
+        "Wilaya Number": 19,
+        "Wilaya Name": "SETIF",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 20,
+        "Wilaya Name": "SAIDA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 21,
+        "Wilaya Name": "SKIKDA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 1603,
+                "Production (qx)": 439264
+            }
+        }
+    },
+    {
+        "Wilaya Number": 22,
+        "Wilaya Name": "S.B.ABBES",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 23,
+        "Wilaya Name": "ANNABA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 263,
+                "Production (qx)": 56310
+            }
+        }
+    },
+    {
+        "Wilaya Number": 24,
+        "Wilaya Name": "GUELMA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 548,
+                "Production (qx)": 111004
+            }
+        }
+    },
+    {
+        "Wilaya Number": 25,
+        "Wilaya Name": "CONSTANTINE",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 10,
+                "Production (qx)": 1470
+            }
+        }
+    },
+    {
+        "Wilaya Number": 26,
+        "Wilaya Name": "MEDEA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 22,
+                "Production (qx)": 2850
+            }
+        }
+    },
+    {
+        "Wilaya Number": 27,
+        "Wilaya Name": "MOSTAGANEM",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 3634,
+                "Production (qx)": 1067750
+            }
+        }
+    },
+    {
+        "Wilaya Number": 28,
+        "Wilaya Name": "M'SILA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 29,
+        "Wilaya Name": "MASCARA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 2854,
+                "Production (qx)": 623950
+            }
+        }
+    },
+    {
+        "Wilaya Number": 30,
+        "Wilaya Name": "OUARGLA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 12,
+                "Production (qx)": 1975
+            }
+        }
+    },
+    {
+        "Wilaya Number": 31,
+        "Wilaya Name": "ORAN",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 104,
+                "Production (qx)": 13319
+            }
+        }
+    },
+    {
+        "Wilaya Number": 32,
+        "Wilaya Name": "EL-BAYADH",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 33,
+        "Wilaya Name": "ILLIZI",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 25,
+                "Production (qx)": 1765
+            }
+        }
+    },
+    {
+        "Wilaya Number": 34,
+        "Wilaya Name": "B.B.ARRERIDJ",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 6,
+                "Production (qx)": 630
+            }
+        }
+    },
+    {
+        "Wilaya Number": 35,
+        "Wilaya Name": "BOUMERDES",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 1551,
+                "Production (qx)": 360082
+            }
+        }
+    },
+    {
+        "Wilaya Number": 36,
+        "Wilaya Name": "EL-TARF",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 1372,
+                "Production (qx)": 343960
+            }
+        }
+    },
+    {
+        "Wilaya Number": 37,
+        "Wilaya Name": "TINDOUF",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 38,
+        "Wilaya Name": "TISSEMSILT",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 39,
+        "Wilaya Name": "EL-OUED",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 10,
+                "Production (qx)": 200
+            }
+        }
+    },
+    {
+        "Wilaya Number": 40,
+        "Wilaya Name": "KHENCHELA",
+        "CITRUS": {
+                "orange": {
+                    "Superficie (ha)": 0,
+                    "Production (qx)": 0
+                }
+            }
+    },
+    {
+        "Wilaya Number": 41,
+        "Wilaya Name": "SOUK-AHRAS",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 8,
+                "Production (qx)": 980
+            }
+        }
+    },
+    {
+        "Wilaya Number": 42,
+        "Wilaya Name": "TIPAZA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 2980,
+                "Production (qx)": 943407
+            }
+        }
+    },
+    {
+        "Wilaya Number": 43,
+        "Wilaya Name": "MILA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 3,
+                "Production (qx)": 110
+            }
+        }
+    },
+    {
+        "Wilaya Number": 44,
+        "Wilaya Name": "AIN-DEFLA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 1193,
+                "Production (qx)": 231053
+            }
+        }
+    },
+    {
+        "Wilaya Number": 45,
+        "Wilaya Name": "NAAMA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 1,
+                "Production (qx)": 50
+            }
+        }
+    },
+    {
+        "Wilaya Number": 46,
+        "Wilaya Name": "A.TEMOUCHENT",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 287,
+                "Production (qx)": 30675
+            }
+        }
+    },
+    {
+        "Wilaya Number": 47,
+        "Wilaya Name": "GHARDAIA",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 403,
+                "Production (qx)": 43560
+            }
+        }
+    },
+    {
+        "Wilaya Number": 48,
+        "Wilaya Name": "RELIZANE",
+        "CITRUS": {
+            "orange": {
+                "Superficie (ha)": 3366,
+                "Production (qx)": 893614
+            }
+        }
+    }
+]

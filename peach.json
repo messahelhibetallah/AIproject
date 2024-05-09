@@ -1,0 +1,483 @@
+[
+    {
+        "Wilaya Number": 1,
+        "Wilaya Name": "ADRAR",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 260,
+                "Production (qx)": 194
+            }
+        }
+    },
+    {
+        "Wilaya Number": 2,
+        "Wilaya Name": "CHLEF",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 1143,
+                "Production (qx)": 1143
+            }
+        }
+    },
+    {
+        "Wilaya Number": 3,
+        "Wilaya Name": "LAGHOUAT",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 146,
+                "Production (qx)": 132
+            }
+        }
+    },
+    {
+        "Wilaya Number": 4,
+        "Wilaya Name": "O.E.BOUAGHI",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 4369,
+                "Production (qx)": 4225
+            }
+        }
+    },
+    {
+        "Wilaya Number": 5,
+        "Wilaya Name": "BATNA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 434,
+                "Production (qx)": 432
+            }
+        }
+    },
+    {
+        "Wilaya Number": 6,
+        "Wilaya Name": "BEJAIA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 1756,
+                "Production (qx)": 1665
+            }
+        }
+    },
+    {
+        "Wilaya Number": 7,
+        "Wilaya Name": "BISKRA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 216,
+                "Production (qx)": 210
+            }
+        }
+    },
+    {
+        "Wilaya Number": 8,
+        "Wilaya Name": "BECHAR",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 783,
+                "Production (qx)": 782
+            }
+        }
+    },
+    {
+        "Wilaya Number": 9,
+        "Wilaya Name": "BLIDA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 400,
+                "Production (qx)": 342
+            }
+        }
+    },
+    {
+        "Wilaya Number": 10,
+        "Wilaya Name": "BOUIRA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 111,
+                "Production (qx)": 98
+            }
+        }
+    },
+    {
+        "Wilaya Number": 11,
+        "Wilaya Name": "TAMANRASSET",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 1028,
+                "Production (qx)": 980
+            }
+        }
+    },
+    {
+        "Wilaya Number": 12,
+        "Wilaya Name": "TEBESSA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 1039,
+                "Production (qx)": 850
+            }
+        }
+    },
+    {
+        "Wilaya Number": 13,
+        "Wilaya Name": "TLEMCEN",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 1039,
+                "Production (qx)": 93500
+            }
+        }
+    },
+    {
+        "Wilaya Number": 14,
+        "Wilaya Name": "TIARET",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 1163,
+                "Production (qx)": 60610
+            }
+        }
+    },
+    {
+        "Wilaya Number": 15,
+        "Wilaya Name": "TIZI-OUZOU",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 156,
+                "Production (qx)": 15474
+            }
+        }
+    },
+    {
+        "Wilaya Number": 16,
+        "Wilaya Name": "ALGER",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 520,
+                "Production (qx)": 48270
+            }
+        }
+    },
+    {
+        "Wilaya Number": 17,
+        "Wilaya Name": "DJELFA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 2180,
+                "Production (qx)": 152400
+            }
+        }
+    },
+    {
+        "Wilaya Number": 18,
+        "Wilaya Name": "JIJEL",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 55,
+                "Production (qx)": 5193
+            }
+        }
+    },
+    {
+        "Wilaya Number": 19,
+        "Wilaya Name": "SETIF",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 819,
+                "Production (qx)": 26444
+            }
+        }
+    },
+    {
+        "Wilaya Number": 20,
+        "Wilaya Name": "SAIDA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 124,
+                "Production (qx)": 2704
+            }
+        }
+    },
+    {
+        "Wilaya Number": 21,
+        "Wilaya Name": "SKIKDA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 702,
+                "Production (qx)": 81140
+            }
+        }
+    },
+    {
+        "Wilaya Number": 22,
+        "Wilaya Name": "S.B.ABBES",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 243,
+                "Production (qx)": 16400
+            }
+        }
+    },
+    {
+        "Wilaya Number": 23,
+        "Wilaya Name": "ANNABA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 60,
+                "Production (qx)": 8087
+            }
+        }
+    },
+    {
+        "Wilaya Number": 24,
+        "Wilaya Name": "GUELMA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 107,
+                "Production (qx)": 13866
+            }
+        }
+    },
+    {
+        "Wilaya Number": 25,
+        "Wilaya Name": "CONSTANTINE",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 52,
+                "Production (qx)": 5120
+            }
+        }
+    },
+    {
+        "Wilaya Number": 26,
+        "Wilaya Name": "MEDEA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 523,
+                "Production (qx)": 16948
+            }
+        }
+    },
+    {
+        "Wilaya Number": 27,
+        "Wilaya Name": "MOSTAGANEM",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 1788,
+                "Production (qx)": 125090
+            }
+        }
+    },
+    {
+        "Wilaya Number": 28,
+        "Wilaya Name": "M'SILA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 5836,
+                "Production (qx)": 294000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 29,
+        "Wilaya Name": "MASCARA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 269,
+                "Production (qx)": 6600
+            }
+        }
+    },
+    {
+        "Wilaya Number": 30,
+        "Wilaya Name": "OUARGLA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 119,
+                "Production (qx)": 4445
+            }
+        }
+    },
+    {
+        "Wilaya Number": 31,
+        "Wilaya Name": "ORAN",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 578,
+                "Production (qx)": 21664
+            }
+        }
+    },
+    {
+        "Wilaya Number": 32,
+        "Wilaya Name": "EL-BAYADH",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 357,
+                "Production (qx)": 13537
+            }
+        }
+    },
+    {
+        "Wilaya Number": 33,
+        "Wilaya Name": "ILLIZI",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 34,
+                "Production (qx)": 549
+            }
+        }
+    },
+    {
+        "Wilaya Number": 34,
+        "Wilaya Name": "B.B.ARRERIDJ",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 271,
+                "Production (qx)": 13820
+            }
+        }
+    },
+    {
+        "Wilaya Number": 35,
+        "Wilaya Name": "BOUMERDES",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 250,
+                "Production (qx)": 29488
+            }
+        }
+    },
+    {
+        "Wilaya Number": 36,
+        "Wilaya Name": "EL-TARF",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 221,
+                "Production (qx)": 12000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 37,
+        "Wilaya Name": "TINDOUF",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 38,
+        "Wilaya Name": "TISSEMSILT",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 598,
+                "Production (qx)": 45311
+            }
+        }
+    },
+    {
+        "Wilaya Number": 39,
+        "Wilaya Name": "EL-OUED",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 210,
+                "Production (qx)": 12620
+            }
+        }
+    },
+    {
+        "Wilaya Number": 40,
+        "Wilaya Name": "KHENCHELA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 1413,
+                "Production (qx)": 78095
+            }
+        }
+    },
+    {
+        "Wilaya Number": 41,
+        "Wilaya Name": "SOUK-AHRAS",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 305,
+                "Production (qx)": 13357
+            }
+        }
+    },
+    {
+        "Wilaya Number": 42,
+        "Wilaya Name": "TIPAZA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 1208,
+                "Production (qx)": 110741
+            }
+        }
+    },
+    {
+        "Wilaya Number": 43,
+        "Wilaya Name": "MILA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 231,
+                "Production (qx)": 14288
+            }
+        }
+    },
+    {
+        "Wilaya Number": 44,
+        "Wilaya Name": "AIN-DEFLA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 308,
+                "Production (qx)": 9939
+            }
+        }
+    },
+    {
+        "Wilaya Number": 45,
+        "Wilaya Name": "NAAMA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 210,
+                "Production (qx)": 8866
+            }
+        }
+    },
+    {
+        "Wilaya Number": 46,
+        "Wilaya Name": "A.TEMOUCHENT",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 506,
+                "Production (qx)": 17655
+            }
+        }
+    },
+    {
+        "Wilaya Number": 47,
+        "Wilaya Name": "GHARDAIA",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 182,
+                "Production (qx)": 11218
+            }
+        }
+    },
+    {
+        "Wilaya Number": 48,
+        "Wilaya Name": "RELIZANE",
+        "CULTURES FRUITIERES A NOYAUX ET / OU A PEPINS": {
+            "peach": {
+                "Superficie (ha)": 533,
+                "Production (qx)": 80185
+            }
+        }
+    }
+]
+

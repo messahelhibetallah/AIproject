@@ -1,0 +1,483 @@
+[
+    {
+        "Wilaya Number": 1,
+        "Wilaya Name": "ADRAR",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 20,
+                "Production (qx)": 1086
+            }
+        }
+    },
+    {
+        "Wilaya Number": 2,
+        "Wilaya Name": "CHLEF",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 3,
+        "Wilaya Name": "LAGHOUAT",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 4,
+        "Wilaya Name": "O.E.BOUAGHI",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 5,
+        "Wilaya Name": "BATNA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 2
+            }
+        }
+    },
+    {
+        "Wilaya Number": 6,
+        "Wilaya Name": "BEJAIA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 569
+            }
+        }
+    },
+    {
+        "Wilaya Number": 7,
+        "Wilaya Name": "BISKRA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 8,
+        "Wilaya Name": "BECHAR",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 14
+            }
+        }
+    },
+    {
+        "Wilaya Number": 9,
+        "Wilaya Name": "BLIDA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 14
+            }
+        }
+    },
+    {
+        "Wilaya Number": 10,
+        "Wilaya Name": "BOUIRA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 1
+            }
+        }
+    },
+    {
+        "Wilaya Number": 11,
+        "Wilaya Name": "TAMANRASSET",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 12,
+        "Wilaya Name": "TEBESSA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 300
+            }
+        }
+    },
+    {
+        "Wilaya Number": 13,
+        "Wilaya Name": "TLEMCEN",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 648
+            }
+        }
+    },
+    {
+        "Wilaya Number": 14,
+        "Wilaya Name": "TIARET",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 209760
+            }
+        }
+    },
+    {
+        "Wilaya Number": 15,
+        "Wilaya Name": "TIZI-OUZOU",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 3712
+            }
+        }
+    },
+    {
+        "Wilaya Number": 16,
+        "Wilaya Name": "ALGER",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 17,
+        "Wilaya Name": "DJELFA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 403
+            }
+        }
+    },
+    {
+        "Wilaya Number": 18,
+        "Wilaya Name": "JIJEL",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 19,
+        "Wilaya Name": "SETIF",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 6000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 20,
+        "Wilaya Name": "SAIDA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 21,
+        "Wilaya Name": "SKIKDA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 118
+            }
+        }
+    },
+    {
+        "Wilaya Number": 22,
+        "Wilaya Name": "S.B.ABBES",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 23,
+        "Wilaya Name": "ANNABA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 24,
+        "Wilaya Name": "GUELMA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 125
+            }
+        }
+    },
+    {
+        "Wilaya Number": 25,
+        "Wilaya Name": "CONSTANTINE",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 26,
+        "Wilaya Name": "MEDEA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 27,
+        "Wilaya Name": "MOSTAGANEM",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 257
+            }
+        }
+    },
+    {
+        "Wilaya Number": 28,
+        "Wilaya Name": "M'SILA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 29,
+        "Wilaya Name": "MASCARA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 30,
+        "Wilaya Name": "OUARGLA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 31,
+        "Wilaya Name": "ORAN",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 32,
+        "Wilaya Name": "EL-BAYADH",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "courgettes": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 33,
+        "Wilaya Name": "ILLIZI",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 34,
+        "Wilaya Name": "B.B.ARRERIDJ",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 35,
+        "Wilaya Name": "BOUMERDES",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 36,
+        "Wilaya Name": "EL-TARF",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 37,
+        "Wilaya Name": "TINDOUF",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 38,
+        "Wilaya Name": "TISSEMSILT",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 39,
+        "Wilaya Name": "EL-OUED",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 40,
+        "Wilaya Name": "KHENCHELA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 41,
+        "Wilaya Name": "SOUK-AHRAS",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 42,
+        "Wilaya Name": "TIPAZA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 43,
+        "Wilaya Name": "MILA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 44,
+        "Wilaya Name": "AIN-DEFLA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 45,
+        "Wilaya Name": "NAAMA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 46,
+        "Wilaya Name": "A.TEMOUCHENT",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 47,
+        "Wilaya Name": "GHARDAIA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 48,
+        "Wilaya Name": "RELIZANE",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "zucchini": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    }
+]
+

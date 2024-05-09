@@ -1,0 +1,482 @@
+[
+    {
+        "Wilaya Number": 1,
+        "Wilaya Name": "ADRAR",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 2,
+        "Wilaya Name": "CHLEF",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 4718,
+                "Production (qx)": 77496
+            }
+        }
+    },
+    {
+        "Wilaya Number": 3,
+        "Wilaya Name": "LAGHOUAT",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 2277,
+                "Production (qx)": 54100
+            }
+        }
+    },
+    {
+        "Wilaya Number": 4,
+        "Wilaya Name": "O.E.BOUAGHI",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 2073,
+                "Production (qx)": 19277
+            }
+        }
+    },
+    {
+        "Wilaya Number": 5,
+        "Wilaya Name": "BATNA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 11855,
+                "Production (qx)": 455945
+            }
+        }
+    },
+    {
+        "Wilaya Number": 6,
+        "Wilaya Name": "BEJAIA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 57614,
+                "Production (qx)": 890333
+            }
+        }
+    },
+    {
+        "Wilaya Number": 7,
+        "Wilaya Name": "BISKRA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 4569,
+                "Production (qx)": 176490
+            }
+        }
+    },
+    {
+        "Wilaya Number": 8,
+        "Wilaya Name": "BECHAR",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 1650,
+                "Production (qx)": 9962
+            }
+        }
+    },
+    {
+        "Wilaya Number": 9,
+        "Wilaya Name": "BLIDA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 1230,
+                "Production (qx)": 65064
+            }
+        }
+    },
+    {
+        "Wilaya Number": 10,
+        "Wilaya Name": "BOUIRA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 37309,
+                "Production (qx)": 432442
+            }
+        }
+    },
+    {
+        "Wilaya Number": 11,
+        "Wilaya Name": "TAMANRASSET",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 12,
+        "Wilaya Name": "TEBESSA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 9534,
+                "Production (qx)": 70600
+            }
+        }
+    },
+    {
+        "Wilaya Number": 13,
+        "Wilaya Name": "TLEMCEN",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 15546,
+                "Production (qx)": 750000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 14,
+        "Wilaya Name": "TIARET",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 4597,
+                "Production (qx)": 64000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 15,
+        "Wilaya Name": "TIZI-OUZOU",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 38828,
+                "Production (qx)": 504208
+            }
+        }
+    },
+    {
+        "Wilaya Number": 16,
+        "Wilaya Name": "ALGER",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 190,
+                "Production (qx)": 5316
+            }
+        }
+    },
+    {
+        "Wilaya Number": 17,
+        "Wilaya Name": "DJELFA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 11329,
+                "Production (qx)": 339800
+            }
+        }
+    },
+    {
+        "Wilaya Number": 18,
+        "Wilaya Name": "JIJEL",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 16603,
+                "Production (qx)": 555859
+            }
+        }
+    },
+    {
+        "Wilaya Number": 19,
+        "Wilaya Name": "SETIF",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 23611,
+                "Production (qx)": 341050
+            }
+        }
+    },
+    {
+        "Wilaya Number": 20,
+        "Wilaya Name": "SAIDA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 5597,
+                "Production (qx)": 150098
+            }
+        }
+    },
+    {
+        "Wilaya Number": 21,
+        "Wilaya Name": "SKIKDA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 11833,
+                "Production (qx)": 222732
+            }
+        }
+    },
+    {
+        "Wilaya Number": 22,
+        "Wilaya Name": "S.B.ABBES",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 8781,
+                "Production (qx)": 223824
+            }
+        }
+    },
+    {
+        "Wilaya Number": 23,
+        "Wilaya Name": "ANNABA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 969,
+                "Production (qx)": 14665
+            }
+        }
+    },
+    {
+        "Wilaya Number": 24,
+        "Wilaya Name": "GUELMA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 9531,
+                "Production (qx)": 72275
+            }
+        }
+    },
+    {
+        "Wilaya Number": 25,
+        "Wilaya Name": "CONSTANTINE",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 672,
+                "Production (qx)": 11380
+            }
+        }
+    },
+    {
+        "Wilaya Number": 26,
+        "Wilaya Name": "MEDEA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 8814,
+                "Production (qx)": 57523
+            }
+        }
+    },
+    {
+        "Wilaya Number": 27,
+        "Wilaya Name": "MOSTAGANEM",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 8142,
+                "Production (qx)": 212252
+            }
+        }
+    },
+    {
+        "Wilaya Number": 28,
+        "Wilaya Name": "M'SILA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 10442,
+                "Production (qx)": 173215
+            }
+        }
+    },
+    {
+        "Wilaya Number": 29,
+        "Wilaya Name": "MASCARA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 16186,
+                "Production (qx)": 794250
+            }
+        }
+    },
+    {
+        "Wilaya Number": 30,
+        "Wilaya Name": "OUARGLA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 1269,
+                "Production (qx)": 8457
+            }
+        }
+    },
+    {
+        "Wilaya Number": 31,
+        "Wilaya Name": "ORAN",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 7400,
+                "Production (qx)": 152593
+            }
+        }
+    },
+    {
+        "Wilaya Number": 32,
+        "Wilaya Name": "EL-BAYADH",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 1191,
+                "Production (qx)": 15882
+            }
+        }
+    },
+    {
+        "Wilaya Number": 33,
+        "Wilaya Name": "ILLIZI",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 137,
+                "Production (qx)": 39
+            }
+        }
+    },
+    {
+        "Wilaya Number": 34,
+        "Wilaya Name": "B.B.ARRERIDJ",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 26319,
+                "Production (qx)": 382316
+            }
+        }
+    },
+    {
+        "Wilaya Number": 35,
+        "Wilaya Name": "BOUMERDES",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 8346,
+                "Production (qx)": 37303
+            }
+        }
+    },
+    {
+        "Wilaya Number": 36,
+        "Wilaya Name": "EL-TARF",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 3371,
+                "Production (qx)": 57830
+            }
+        }
+    },
+    {
+        "Wilaya Number": 37,
+        "Wilaya Name": "TINDOUF",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 148,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 38,
+        "Wilaya Name": "TISSEMSILT",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 8370,
+                "Production (qx)": 92000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 39,
+        "Wilaya Name": "EL-OUED",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 3100,
+                "Production (qx)": 46320
+            }
+        }
+    },
+    {
+        "Wilaya Number": 40,
+        "Wilaya Name": "KHENCHELA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 4428,
+                "Production (qx)": 95691
+            }
+        }
+    },
+    {
+        "Wilaya Number": 41,
+        "Wilaya Name": "SOUK-AHRAS",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 8136,
+                "Production (qx)": 102144
+            }
+        }
+    },
+    {
+        "Wilaya Number": 42,
+        "Wilaya Name": "TIPAZA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 2096,
+                "Production (qx)": 42244
+            }
+        }
+    },
+    {
+        "Wilaya Number": 43,
+        "Wilaya Name": "MILA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 9778,
+                "Production (qx)": 138489
+            }
+        }
+    },
+    {
+        "Wilaya Number": 44,
+        "Wilaya Name": "AIN-DEFLA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 6769,
+                "Production (qx)": 190001
+            }
+        }
+    },
+    {
+        "Wilaya Number": 45,
+        "Wilaya Name": "NAAMA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 2067,
+                "Production (qx)": 8058
+            }
+        }
+    },
+    {
+        "Wilaya Number": 46,
+        "Wilaya Name": "A.TEMOUCHENT",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 5124,
+                "Production (qx)": 117568
+            }
+        }
+    },
+    {
+        "Wilaya Number": 47,
+        "Wilaya Name": "GHARDAIA",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 1880,
+                "Production (qx)": 25818
+            }
+        }
+    },
+    {
+        "Wilaya Number": 48,
+        "Wilaya Name": "RELIZANE",
+        "olive": {
+            "olives": {
+                "Superficie (ha)": 7079,
+                "Production (qx)": 430633
+            }
+        }
+    }
+]

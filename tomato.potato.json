@@ -1,0 +1,674 @@
+[
+    {
+        "Wilaya Number": 1,
+        "Wilaya Name": "ADRAR",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 361,
+                "Production (qx)": 54310
+            },
+            "tomato": {
+                "Superficie (ha)": 1020,
+                "Production (qx)": 222914
+            }
+        }
+    },
+    {
+        "Wilaya Number": 2,
+        "Wilaya Name": "CHLEF",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 4290,
+                "Production (qx)": 1295530
+            },
+            "tomato": {
+                "Superficie (ha)": 891,
+                "Production (qx)": 815600
+            }
+        }
+    },
+    {
+        "Wilaya Number": 3,
+        "Wilaya Name": "LAGHOUAT",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 2247,
+                "Production (qx)": 561750
+            },
+            "tomato": {
+                "Superficie (ha)": 350,
+                "Production (qx)": 105000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 4,
+        "Wilaya Name": "O.E.BOUAGHI",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 479,
+                "Production (qx)": 93940
+            },
+            "tomato": {
+                "Superficie (ha)": 260,
+                "Production (qx)": 51032
+            }
+        }
+    },
+    {
+        "Wilaya Number": 5,
+        "Wilaya Name": "BATNA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 2686,
+                "Production (qx)": 832635
+            },
+            "tomato": {
+                "Superficie (ha)": 511,
+                "Production (qx)": 117300
+            }
+        }
+    },
+    {
+        "Wilaya Number": 6,
+        "Wilaya Name": "BEJAIA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 320,
+                "Production (qx)": 59230
+            },
+            "tomato": {
+                "Superficie (ha)": 256,
+                "Production (qx)": 63210
+            }
+        }
+    },
+    {
+        "Wilaya Number": 7,
+        "Wilaya Name": "BISKRA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 210,
+                "Production (qx)": 61240
+            },
+            "tomato": {
+                "Superficie (ha)": 2189,
+                "Production (qx)": 3071910
+            }
+        }
+    },
+    {
+        "Wilaya Number": 8,
+        "Wilaya Name": "BECHAR",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 117,
+                "Production (qx)": 22877
+            },
+            "tomato": {
+                "Superficie (ha)": 211,
+                "Production (qx)": 38777
+            }
+        }
+    },
+    {
+        "Wilaya Number": 9,
+        "Wilaya Name": "BLIDA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 735,
+                "Production (qx)": 271410
+            },
+            "tomato": {
+                "Superficie (ha)": 107,
+                "Production (qx)": 53740
+            }
+        }
+    },
+    {
+        "Wilaya Number": 10,
+        "Wilaya Name": "BOUIRA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 735,
+                "Production (qx)": 271410
+            },
+            "tomato": {
+                "Superficie (ha)": 149,
+                "Production (qx)": 32994
+            }
+        }
+    },
+    {
+        "Wilaya Number": 11,
+        "Wilaya Name": "TAMANRASSET",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 55,
+                "Production (qx)": 8352
+            },
+            "tomato": {
+                "Superficie (ha)": 134,
+                "Production (qx)": 27127
+            }
+        }
+    },
+    {
+        "Wilaya Number": 12,
+        "Wilaya Name": "TEBESSA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 2525,
+                "Production (qx)": 876750
+            },
+            "tomato": {
+                "Superficie (ha)": 162,
+                "Production (qx)": 23950
+            }
+        }
+    },
+    {
+        "Wilaya Number": 13,
+        "Wilaya Name": "TLEMCEN",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 6385,
+                "Production (qx)": 2106500
+            },
+            "tomato": {
+                "Superficie (ha)": 980,
+                "Production (qx)": 663600
+            }
+        }
+    },
+    {
+        "Wilaya Number": 14,
+        "Wilaya Name": "TIARET",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 5749,
+                "Production (qx)": 1584500
+            },
+            "tomato": {
+                "Superficie (ha)": 350,
+                "Production (qx)": 98000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 15,
+        "Wilaya Name": "TIZI-OUZOU",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 938,
+                "Production (qx)": 228353
+            },
+            "tomato": {
+                "Superficie (ha)": 156,
+                "Production (qx)": 36950
+            }
+        }
+    },
+    {
+        "Wilaya Number": 16,
+        "Wilaya Name": "ALGER",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 1516,
+                "Production (qx)": 591620
+            },
+            "tomato": {
+                "Superficie (ha)": 1168,
+                "Production (qx)": 658165
+            }
+        }
+    },
+        {
+        "Wilaya Number": 17,
+        "Wilaya Name": "DJELFA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 196,
+                "Production (qx)": 29200
+            },
+            "potato": {
+                "Superficie (ha)": 556,
+                "Production (qx)": 109665
+            }
+        }
+    },
+    {
+        "Wilaya Number": 18,
+        "Wilaya Name": "JIJEL",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 449,
+                "Production (qx)": 293265
+            },
+            "potato": {
+                "Superficie (ha)": 2244,
+                "Production (qx)": 631175
+            }
+        }
+    },
+    {
+        "Wilaya Number": 19,
+        "Wilaya Name": "SETIF",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 705,
+                "Production (qx)": 224030
+            },
+            "potato": {
+                "Superficie (ha)": 2718,
+                "Production (qx)": 771185
+            }
+        }
+    },
+        {
+        "Wilaya Number": 20,
+        "Wilaya Name": "SAIDA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 256,
+                "Production (qx)": 587490
+            },
+            "tomato": {
+                "Superficie (ha)": 256,
+                "Production (qx)": 100910
+            }
+        }
+    },
+    {
+        "Wilaya Number": 21,
+        "Wilaya Name": "SKIKDA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 103,
+                "Production (qx)": 34120
+            },
+            "tomato": {
+                "Superficie (ha)": 546,
+                "Production (qx)": 153000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 22,
+        "Wilaya Name": "S.B.ABBES",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 1903,
+                "Production (qx)": 505105
+            },
+            "tomato": {
+                "Superficie (ha)": 242,
+                "Production (qx)": 129990
+            }
+        }
+    },
+    {
+        "Wilaya Number": 23,
+        "Wilaya Name": "ANNABA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 194,
+                "Production (qx)": 39165
+            },
+            "tomato": {
+                "Superficie (ha)": 0,
+                "Production (qx)": 0
+            }
+        }
+    },
+    {
+        "Wilaya Number": 24,
+        "Wilaya Name": "GUELMA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 2296,
+                "Production (qx)": 614865
+            },
+            "tomato": {
+                "Superficie (ha)": 214,
+                "Production (qx)": 79440
+            }
+        }
+    },
+    {
+        "Wilaya Number": 25,
+        "Wilaya Name": "CONSTANTINE",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 12771,
+                "Production (qx)": 3715730
+            },
+            "tomato": {
+                "Superficie (ha)": 17,
+                "Production (qx)": 3190
+            }
+        }
+    },
+    {
+        "Wilaya Number": 26,
+        "Wilaya Name": "MEDEA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 580,
+                "Production (qx)": 185000
+            },
+            "tomato": {
+                "Superficie (ha)": 511,
+                "Production (qx)": 100410
+            }
+        }
+    },
+    {
+        "Wilaya Number": 27,
+        "Wilaya Name": "MOSTAGANEM",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "potato": {
+                "Superficie (ha)": 12500,
+                "Production (qx)": 3633000
+            },
+            "tomato": {
+                "Superficie (ha)": 1717,
+                "Production (qx)": 1031064
+            }
+        }
+    },
+    {
+        "Wilaya Number": 28,
+        "Wilaya Name": "M'SILA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 388,
+                "Production (qx)": 240800
+            },
+            "potato": {
+                "Superficie (ha)": 194,
+                "Production (qx)": 39165
+            }
+        }
+    },
+    {
+        "Wilaya Number": 29,
+        "Wilaya Name": "MASCARA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 286,
+                "Production (qx)": 80210
+            },
+            "potato": {
+                "Superficie (ha)": 243,
+                "Production (qx)": 68175
+            }
+        }
+    },
+    {
+        "Wilaya Number": 30,
+        "Wilaya Name": "OUARGLA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 187,
+                "Production (qx)": 29402
+            },
+            "potato": {
+                "Superficie (ha)": 977,
+                "Production (qx)": 277890
+            }
+        }
+    },
+    {
+        "Wilaya Number": 31,
+        "Wilaya Name": "ORAN",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 183,
+                "Production (qx)": 59343
+            },
+            "potato": {
+                "Superficie (ha)": 2,
+                "Production (qx)": 233
+            }
+        }
+    },
+    {
+        "Wilaya Number": 32,
+        "Wilaya Name": "EL-BAYADH",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 73,
+                "Production (qx)": 15709
+            },
+            "potato": {
+                "Superficie (ha)": 151,
+                "Production (qx)": 30800
+            }
+        }
+    },
+    {
+        "Wilaya Number": 33,
+        "Wilaya Name": "ILLIZI",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 11,
+                "Production (qx)": 1179
+            },
+            "potato": {
+                "Superficie (ha)": 5,
+                "Production (qx)": 1050
+            }
+        }
+    },
+    {
+        "Wilaya Number": 34,
+        "Wilaya Name": "B.B.ARRERIDJ",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 137,
+                "Production (qx)": 20985
+            },
+            "potato": {
+                "Superficie (ha)": 7,
+                "Production (qx)": 150
+            }
+        }
+    },
+    {
+        "Wilaya Number": 35,
+        "Wilaya Name": "BOUMERDES",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 647,
+                "Production (qx)": 379800
+            },
+            "potato": {
+                "Superficie (ha)": 143,
+                "Production (qx)": 21955
+            }
+        }
+    },
+    {
+        "Wilaya Number": 36,
+        "Wilaya Name": "EL-TARF",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 5,
+                "Production (qx)": 500
+            },
+            "potato": {
+                "Superficie (ha)": 9,
+                "Production (qx)": 6572
+            }
+        }
+    },
+    {
+        "Wilaya Number": 37,
+        "Wilaya Name": "TINDOUF",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 39,
+                "Production (qx)": 1414
+            },
+            "potato": {
+                "Superficie (ha)": 34,
+                "Production (qx)": 237000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 38,
+        "Wilaya Name": "TISSEMSILT",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 2520,
+                "Production (qx)": 1785000
+            },
+            "potato": {
+                "Superficie (ha)": 243,
+                "Production (qx)": 68610
+            }
+        }
+    },
+    {
+        "Wilaya Number": 39,
+        "Wilaya Name": "EL-OUED",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 177,
+                "Production (qx)": 39186
+            },
+            "potato": {
+                "Superficie (ha)": 529,
+                "Production (qx)": 200520
+            }
+        }
+    },
+    {
+        "Wilaya Number": 40,
+        "Wilaya Name": "KHENCHELA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 550,
+                "Production (qx)": 181500
+            },
+            "potato": {
+                "Superficie (ha)": 316,
+                "Production (qx)": 92890
+            }
+        }
+    },
+    {
+        "Wilaya Number": 41,
+        "Wilaya Name": "SOUK-AHRAS",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 1607,
+                "Production (qx)": 883860
+            },
+            "potato": {
+                "Superficie (ha)": 119,
+                "Production (qx)": 32680
+            }
+        }
+    },
+    {
+        "Wilaya Number": 42,
+        "Wilaya Name": "TIPAZA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 142,
+                "Production (qx)": 43200
+            },
+            "potato": {
+                "Superficie (ha)": 562,
+                "Production (qx)": 119904
+            }
+        }
+    },
+    {
+        "Wilaya Number": 43,
+        "Wilaya Name": "MILA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 474,
+                "Production (qx)": 365000
+            },
+            "potato": {
+                "Superficie (ha)": 316,
+                "Production (qx)": 92890
+            }
+        }
+    },
+    {
+        "Wilaya Number": 44,
+        "Wilaya Name": "AIN-DEFLA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 192,
+                "Production (qx)": 38301
+            },
+            "potato": {
+                "Superficie (ha)": 119,
+                "Production (qx)": 32680
+            }
+        }
+    },
+    {
+        "Wilaya Number": 45,
+        "Wilaya Name": "NAAMA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 846,
+                "Production (qx)": 309370
+            },
+            "potato": {
+                "Superficie (ha)": 5,
+                "Production (qx)": 1050
+            }
+        }
+    },
+    {
+        "Wilaya Number": 46,
+        "Wilaya Name": "A.TEMOUCHENT",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 55,
+                "Production (qx)": 8186
+            },
+            "potato": {
+                "Superficie (ha)": 34,
+                "Production (qx)": 237000
+            }
+        }
+    },
+    {
+        "Wilaya Number": 47,
+        "Wilaya Name": "GHARDAIA",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 55,
+                "Production (qx)": 309370
+            },
+            "potato": {
+                "Superficie (ha)": 316,
+                "Production (qx)": 92990
+            }
+        }
+    },
+    {
+        "Wilaya Number": 48,
+        "Wilaya Name": "RELIZANE",
+        "ENSEMBLE DES CULTURES MARAÎCHERES": {
+            "tomato": {
+                "Superficie (ha)": 286,
+                "Production (qx)": 91417
+            },
+            "potato": {
+                "Superficie (ha)": 119,
+                "Production (qx)": 32680
+            }
+        }
+    }
+]
