@@ -1,0 +1,995 @@
+{
+    "Adrar": {
+      "June": {
+        "Temperature": 33 ,
+        "Precipitation": 1
+      },
+      "August": {
+        "Temperature": 35,
+        "Precipitation": 1
+      },
+      "December": {
+        "Temperature": 14,
+        "Precipitation": 1
+      },
+      "February": {
+        "Temperature": 15,
+        "Precipitation": 1
+      }
+    },
+
+
+
+    "Chlef": {
+      "June": {
+        "Temperature": 26.5 ,
+        "Precipitation": 12
+      },
+      "August": {
+        "Temperature": 31,
+        "Precipitation": 7
+      },
+      "December": {
+        "Temperature": 13,
+        "Precipitation": 36
+      },
+      "February": {
+        "Temperature": 13,
+        "Precipitation": 40
+      }
+    },
+
+
+    "Laghouat": {
+      "June": {
+        "Temperature": 27,
+        "Precipitation": 8
+      },
+      "August": {
+        "Temperature": 29.5,
+        "Precipitation": 7
+      },
+      "December": {
+        "Temperature": 8.5,
+        "Precipitation": 9
+      },
+      "February": {
+        "Temperature": 9.5,
+        "Precipitation": 7
+      }
+    },
+
+
+    "Oum El Bouaghi": {
+      "June": {
+        "Temperature": 23,
+        "Precipitation": 23
+      },
+      "August": {
+        "Temperature": 26.5 ,
+        "Precipitation": 19
+      },
+      "December": {
+        "Temperature": 7.5,
+        "Precipitation": 40
+      },
+      "February": {
+        "Temperature": 7.5,
+        "Precipitation": 36
+      }
+    },
+
+
+    "Batna": {
+      "June": {
+        "Temperature": 23.5,
+        "Precipitation": 40
+      },
+      "August": {
+        "Temperature": 26.5,
+        "Precipitation": 35
+      },
+      "December": {
+        "Temperature": 7.5,
+        "Precipitation": 30
+      },
+      "February": {
+        "Temperature": 7.5,
+        "Precipitation": 23
+      }
+    },
+
+
+    "Béjaïa": {
+      "June": {
+        "Temperature": 25.5,
+        "Precipitation": 23
+      },
+      "August": {
+        "Temperature": 29,
+        "Precipitation": 14
+      },
+      "December": {
+        "Temperature": 13,
+        "Precipitation": 73
+      },
+      "February": {
+        "Temperature": 12.5,
+        "Precipitation": 67
+      }
+    },
+
+
+    "Biskra": {
+      "June": {
+        "Temperature": 30,
+        "Precipitation": 8
+      },
+      "August": {
+        "Temperature": 32.5,
+        "Precipitation": 5
+      },
+      "December": {
+        "Temperature": 12.5,
+        "Precipitation": 10
+      },
+      "February": {
+        "Temperature": 13,
+        "Precipitation": 9
+      }
+    },
+
+
+    "Béchar": {
+      "June": {
+        "Temperature": 28.5,
+        "Precipitation": 4
+      },
+      "August": {
+        "Temperature": 31.5,
+        "Precipitation": 2
+      },
+      "December": {
+        "Temperature": 10.5,
+        "Precipitation": 3
+      },
+      "February": {
+        "Temperature": 11.5,
+        "Precipitation": 6
+      }
+    },
+
+
+    "Blida": {
+      "June": {
+        "Temperature": 26,
+        "Precipitation": 33
+      },
+      "August": {
+        "Temperature": 30,
+        "Precipitation": 24
+      },
+      "December": {
+        "Temperature": 12.5,
+        "Precipitation": 51
+      },
+      "February": {
+        "Temperature": 12.5,
+        "Precipitation": 55
+      }
+    },
+
+
+
+    "Bouira": {
+      "June": {
+        "Temperature": 25,
+        "Precipitation": 36
+      },
+      "August": {
+        "Temperature": 29,
+        "Precipitation": 25
+      },
+      "December": {
+        "Temperature": 10.5,
+        "Precipitation": 60
+      },
+      "February": {
+        "Temperature": 10.5,
+        "Precipitation": 58
+      }
+    },
+
+
+    "Tamanrasset": {
+        "June": {
+          "Temperature": 30.5,
+          "Precipitation": 5
+        },
+        "August": {
+          "Temperature": 30.5,
+          "Precipitation": 7
+        },
+        "December": {
+          "Temperature": 16,
+          "Precipitation": 1
+        },
+        "February": {
+          "Temperature": 16.5,
+          "Precipitation": 1
+        }
+      },
+
+
+      "Tébessa": {
+        "June": {
+          "Temperature": 24.5,
+          "Precipitation": 38
+        },
+        "August": {
+          "Temperature": 27,
+          "Precipitation": 33
+        },
+        "December": {
+          "Temperature": 8.5,
+          "Precipitation": 29
+        },
+        "February": {
+          "Temperature": 8.5,
+          "Precipitation": 24
+        }
+      },
+
+
+      "Tlemcen": {
+        "June": {
+          "Temperature": 21,
+          "Precipitation": 25
+        },
+        "August": {
+          "Temperature": 25,
+          "Precipitation": 28
+        },
+        "December": {
+          "Temperature": 9,
+          "Precipitation": 30
+        },
+        "February": {
+          "Temperature": 9,
+          "Precipitation": 39
+        }
+      },
+
+
+      "Tiaret": {
+        "June": {
+          "Temperature": 23.5,
+          "Precipitation": 41
+        },
+        "August": {
+          "Temperature": 27.5,
+          "Precipitation": 37
+        },
+        "December": {
+          "Temperature": 7.5,
+          "Precipitation": 35
+        },
+        "February": {
+          "Temperature": 8,
+          "Precipitation": 41
+        }
+      },
+
+
+
+      "Tizi Ouzou": {
+        "June": {
+          "Temperature": 23.5,
+          "Precipitation": 28
+        },
+        "August": {
+          "Temperature": 28,
+          "Precipitation": 16
+        },
+        "December": {
+          "Temperature": 11.5,
+          "Precipitation": 83
+        },
+        "February": {
+          "Temperature": 11,
+          "Precipitation": 67
+        }
+      },
+
+
+      "Alger": {
+        "June": {
+          "Temperature": 24,
+          "Precipitation": 16
+        },
+        "August": {
+          "Temperature": 28,
+          "Precipitation": 8
+        },
+        "December": {
+          "Temperature": 12,
+          "Precipitation": 47
+        },
+        "February": {
+          "Temperature": 11.5,
+          "Precipitation": 29
+        }
+      },
+
+
+      "Djelfa": {
+        "June": {
+          "Temperature": 24.5,
+          "Precipitation": 51
+        },
+        "August": {
+          "Temperature": 28,
+          "Precipitation": 38
+        },
+        "December": {
+          "Temperature": 8,
+          "Precipitation": 21
+        },
+        "February": {
+          "Temperature": 8,
+          "Precipitation": 21
+        }
+      },
+
+
+      "Jijel": {
+        "June": {
+          "Temperature": 25,
+          "Precipitation": 21
+        },
+        "August": {
+          "Temperature": 29.5,
+          "Precipitation": 12
+        },
+        "December": {
+          "Temperature": 12.5,
+          "Precipitation": 74
+        },
+        "February": {
+          "Temperature": 12,
+          "Precipitation": 64
+        }
+      },
+
+
+
+      "Sétif": {
+        "June": {
+          "Temperature": 21.5,
+          "Precipitation": 37
+        },
+        "August": {
+          "Temperature": 25,
+          "Precipitation": 32
+        },
+        "December": {
+          "Temperature": 7,
+          "Precipitation": 41
+        },
+        "February": {
+          "Temperature": 7,
+          "Precipitation": 42
+        }
+      },
+
+
+      "Saida": {
+        "June": {
+          "Temperature": 24.5,
+          "Precipitation": 28
+        },
+        "August": {
+          "Temperature": 28.5,
+          "Precipitation": 35
+        },
+        "December": {
+          "Temperature": 9.5,
+          "Precipitation": 24
+        },
+        "February": {
+          "Temperature": 10,
+          "Precipitation": 26
+        }
+      },
+
+
+      "Skikda": {
+        "June": {
+          "Temperature": 25,
+          "Precipitation": 17
+        },
+        "August": {
+          "Temperature": 29,
+          "Precipitation": 14
+        },
+        "December": {
+          "Temperature": 12.5,
+          "Precipitation": 63
+        },
+        "February": {
+          "Temperature": 12,
+          "Precipitation": 58
+        }
+      },
+
+
+      "Sidi Bel Abbès": {
+        "June": {
+          "Temperature": 23,
+          "Precipitation": 13
+        },
+        "August": {
+          "Temperature": 28,
+          "Precipitation": 10
+        },
+        "December": {
+          "Temperature": 10.5,
+          "Precipitation": 23
+        },
+        "February": {
+          "Temperature": 10.5,
+          "Precipitation": 28
+        }
+      },
+
+
+      "Annaba": {
+        "June": {
+          "Temperature": 22,
+          "Precipitation": 14
+        },
+        "August": {
+          "Temperature": 25.7,
+          "Precipitation": 8
+        },
+        "December": {
+          "Temperature": 12.5,
+          "Precipitation": 44
+        },
+        "February": {
+          "Temperature": 12,
+          "Precipitation": 37
+        }
+      },
+
+
+
+      "Guelma": {
+        "June": {
+          "Temperature": 25.5,
+          "Precipitation": 23
+        },
+        "August": {
+          "Temperature": 29.5,
+          "Precipitation": 18
+        },
+        "December": {
+          "Temperature": 11.5,
+          "Precipitation": 43
+        },
+        "February": {
+          "Temperature": 11,
+          "Precipitation": 47
+        }
+      },
+
+
+      "Constantine": {
+        "June": {
+          "Temperature": 24.5,
+          "Precipitation": 18
+        },
+        "August": {
+          "Temperature": 28,
+          "Precipitation": 14
+        },
+        "December": {
+          "Temperature": 10,
+          "Precipitation": 34
+        },
+        "February": {
+          "Temperature": 9.5,
+          "Precipitation": 38
+        }
+      },
+
+
+      "Médéa": {
+        "June": {
+          "Temperature": 22,
+          "Precipitation": 33
+        },
+        "August": {
+          "Temperature": 26,
+          "Precipitation": 24
+        },
+        "December": {
+          "Temperature": 8,
+          "Precipitation": 51
+        },
+        "February": {
+          "Temperature": 8,
+          "Precipitation": 55
+        }
+      },
+
+
+
+      "Mostaganem": {
+        "June": {
+          "Temperature": 24.5,
+          "Precipitation": 11
+        },
+        "August": {
+          "Temperature": 28.5,
+          "Precipitation": 7
+        },
+        "December": {
+          "Temperature": 12.5,
+          "Precipitation": 20
+        },
+        "February": {
+          "Temperature": 12,
+          "Precipitation": 26
+        }
+      },
+
+
+
+      "M'Sila": {
+        "June": {
+          "Temperature": 27,
+          "Precipitation": 11
+        },
+        "August": {
+          "Temperature": 30,
+          "Precipitation": 5
+        },
+        "December": {
+          "Temperature": 10,
+          "Precipitation": 12
+        },
+        "February": {
+          "Temperature": 10,
+          "Precipitation": 12
+        }
+      },
+
+
+
+      "Mascara": {
+        "June": {
+          "Temperature": 23.5,
+          "Precipitation": 12
+        },
+        "August": {
+          "Temperature": 27.5,
+          "Precipitation": 9
+        },
+        "December": {
+          "Temperature": 9.5,
+          "Precipitation": 20
+        },
+        "February": {
+          "Temperature": 9.5,
+          "Precipitation": 24
+        }
+      },
+
+
+
+      "Ouargla": {
+        "June": {
+          "Temperature": 31.5,
+          "Precipitation": 2
+        },
+        "August": {
+          "Temperature": 33.5,
+          "Precipitation": 1
+        },
+        "December": {
+          "Temperature": 12.5,
+          "Precipitation": 4
+        },
+        "February": {
+          "Temperature": 13.5,
+          "Precipitation": 1
+        }
+      },
+
+
+
+      "Oran": {
+        "June": {
+          "Temperature": 24,
+          "Precipitation": 8
+        },
+        "August": {
+          "Temperature": 28,
+          "Precipitation": 6
+        },
+        "December": {
+          "Temperature": 12.5,
+          "Precipitation": 21
+        },
+        "February": {
+          "Temperature": 12,
+          "Precipitation": 27
+        }
+      },
+
+
+
+      "El Bayadh": {
+        "June": {
+          "Temperature": 24,
+          "Precipitation": 38
+        },
+        "August": {
+          "Temperature": 27,
+          "Precipitation": 33
+        },
+        "December": {
+          "Temperature": 7,
+          "Precipitation": 17
+        },
+        "February": {
+          "Temperature": 7.5,
+          "Precipitation": 18
+        }
+      },
+
+
+
+      "Illizi": {
+        "June": {
+          "Temperature": 31.5,
+          "Precipitation": 3
+        },
+        "August": {
+          "Temperature": 30.5,
+          "Precipitation": 0
+        },
+        "December": {
+          "Temperature": 13.5,
+          "Precipitation": 1
+        },
+        "February": {
+          "Temperature": 13,
+          "Precipitation": 1
+        }
+      },
+
+
+
+      "Bordj Bou Arréridj": {
+        "June": {
+          "Temperature": 23.5,
+          "Precipitation": 20
+        },
+        "August": {
+          "Temperature": 27,
+          "Precipitation": 13
+        },
+        "December": {
+          "Temperature": 8,
+          "Precipitation": 28
+        },
+        "February": {
+          "Temperature": 8,
+          "Precipitation": 27
+        }
+      },
+
+
+
+      "Boumerdès": {
+        "June": {
+          "Temperature": 25,
+          "Precipitation": 16
+        },
+        "August": {
+          "Temperature": 29,
+          "Precipitation": 8
+        },
+        "December": {
+          "Temperature": 12,
+          "Precipitation": 47
+        },
+        "February": {
+          "Temperature": 11.5,
+          "Precipitation": 39
+        }
+      },
+
+
+
+      "El Tarf": {
+        "June": {
+          "Temperature": 25,
+          "Precipitation": 19
+        },
+        "August": {
+          "Temperature": 28.5,
+          "Precipitation": 14
+        },
+        "December": {
+          "Temperature": 12.5,
+          "Precipitation": 61
+        },
+        "February": {
+          "Temperature": 12,
+          "Precipitation": 64
+        }
+      },
+
+
+      "Tindouf": {
+        "June": {
+          "Temperature": 29,
+          "Precipitation": 1
+        },
+        "August": {
+          "Temperature": 33.5,
+          "Precipitation": 1
+        },
+        "December": {
+          "Temperature": 15,
+          "Precipitation": 1
+        },
+        "February": {
+          "Temperature": 16,
+          "Precipitation": 4
+        }
+      },
+
+
+      "Tissemsilt": {
+        "June": {
+          "Temperature": 24.5,
+          "Precipitation": 42
+        },
+        "August": {
+          "Temperature": 28,
+          "Precipitation": 32
+        },
+        "December": {
+          "Temperature": 8.5,
+          "Precipitation": 29
+        },
+        "February": {
+          "Temperature": 9,
+          "Precipitation": 35
+        }
+      },
+
+
+
+      "El Oued": {
+        "June": {
+          "Temperature": 29.5,
+          "Precipitation": 3
+        },
+        "August": {
+          "Temperature": 32,
+          "Precipitation": 2
+        },
+        "December": {
+          "Temperature": 12.5,
+          "Precipitation": 6
+        },
+        "February": {
+          "Temperature": 13,
+          "Precipitation": 2
+        }
+      },
+
+
+
+      "Khenchela": {
+        "June": {
+          "Temperature": 23.5,
+          "Precipitation": 53
+        },
+        "August": {
+          "Temperature": 26.5,
+          "Precipitation": 54
+        },
+        "December": {
+          "Temperature": 7.5,
+          "Precipitation": 36
+        },
+        "February": {
+          "Temperature": 7.5,
+          "Precipitation": 30
+        }
+      },
+
+
+
+      "Souk Ahras": {
+        "June": {
+          "Temperature": 22.5,
+          "Precipitation": 20
+        },
+        "August": {
+          "Temperature": 26,
+          "Precipitation": 15
+        },
+        "December": {
+          "Temperature": 8.5,
+          "Precipitation": 38
+        },
+        "February": {
+          "Temperature": 8,
+          "Precipitation": 43
+        }
+      },
+
+
+
+      "Tipaza": {
+        "June": {
+          "Temperature": 26.5,
+          "Precipitation": 32
+        },
+        "August": {
+          "Temperature": 29,
+          "Precipitation": 24
+        },
+        "December": {
+          "Temperature": 13.5,
+          "Precipitation": 57
+        },
+        "February": {
+          "Temperature": 13,
+          "Precipitation": 61
+        }
+      },
+
+
+
+      "Mila": {
+        "June": {
+          "Temperature": 25.5,
+          "Precipitation": 22
+        },
+        "August": {
+          "Temperature": 29,
+          "Precipitation": 19
+        },
+        "December": {
+          "Temperature": 10.5,
+          "Precipitation": 34
+        },
+        "February": {
+          "Temperature": 10.5,
+          "Precipitation": 37
+        }
+      },
+
+
+
+      "Aïn Defla": {
+        "June": {
+          "Temperature": 24.5,
+          "Precipitation": 21
+        },
+        "August": {
+          "Temperature": 28.5,
+          "Precipitation": 13
+        },
+        "December": {
+          "Temperature": 12,
+          "Precipitation": 48
+        },
+        "February": {
+          "Temperature": 11.5,
+          "Precipitation": 51
+        }
+      },
+
+
+
+      "Naâma": {
+        "June": {
+          "Temperature": 25,
+          "Precipitation": 21
+        },
+        "August": {
+          "Temperature": 28,
+          "Precipitation": 18
+        },
+        "December": {
+          "Temperature": 8,
+          "Precipitation": 10
+        },
+        "February": {
+          "Temperature": 9,
+          "Precipitation": 12
+        }
+      },
+
+
+
+      "Aïn Témouchent": {
+        "June": {
+          "Temperature": 23.5,
+          "Precipitation": 12
+        },
+        "August": {
+          "Temperature": 28,
+          "Precipitation": 10
+        },
+        "December": {
+          "Temperature": 12,
+          "Precipitation": 27
+        },
+        "February": {
+          "Temperature": 11.5,
+          "Precipitation": 32
+        }
+      },
+
+
+
+      "Ghardaïa": {
+        "June": {
+          "Temperature": 24.5,
+          "Precipitation": 5
+        },
+        "August": {
+          "Temperature": 32.5,
+          "Precipitation": 3
+        },
+        "December": {
+          "Temperature": 10.5,
+          "Precipitation": 5
+        },
+        "February": {
+          "Temperature": 11.5,
+          "Precipitation": 3
+        }
+      },
+
+      "Relizane": {
+        "June": {
+          "Temperature": 26,
+          "Precipitation": 9
+        },
+        "August": {
+          "Temperature": 30,
+          "Precipitation": 4
+        },
+        "December": {
+          "Temperature": 12.5,
+          "Precipitation": 23
+        },
+        "February": {
+          "Temperature": 12,
+          "Precipitation": 28
+        }
+      }
+
+}
+
+
+
+    
+  
+
+
+    
+  
+
+  

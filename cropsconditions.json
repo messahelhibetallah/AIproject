@@ -1,0 +1,155 @@
+{
+    "crops": [
+      {
+        "name": "tomato",
+        "temperature": 25,
+        "precipitation": {
+          "June": 70,
+          "August": 80,
+          "December": 40,
+          "February": 40
+        }
+      },
+      {
+        "name": "potato",
+        "temperature": 18,
+        "precipitation": {
+          "June": 70,
+          "August": 80,
+          "December": 40,
+          "February": 40
+        }
+      },
+      {
+        "name": "aubergines",
+        "temperature": 25,
+        "precipitation": {
+          "June": 70,
+          "August": 80,
+          "December": 40,
+          "February": 40
+        }
+      },
+      {
+        "name": "blé",
+        "temperature": 14,
+        "precipitation": {
+          "June": 20,
+          "August": 20,
+          "December": 50,
+          "February": 50
+        }
+      },
+      {
+        "name": "corn",
+        "temperature": 25,
+        "precipitation": {
+          "June": 70,
+          "August": 80,
+          "December": 10,
+          "February": 10
+        }
+      },
+      {
+        "name": "dattes",
+        "temperature": 32,
+        "precipitation": {
+          "June": 5,
+          "August": 5,
+          "December": 10,
+          "February": 10
+        }
+      },
+      {
+        "name": "garlic",
+        "temperature": 18,
+        "precipitation": {
+          "June": 25,
+          "August": 25,
+          "December": 40,
+          "February": 40
+        }
+      },
+      {
+        "name": "lentilles",
+        "temperature": 19,
+        "precipitation": {
+          "June": 15,
+          "August": 15,
+          "December": 30,
+          "February": 30
+        }
+      },
+      {
+        "name": "pepper",
+        "temperature": 25,
+        "precipitation": {
+          "June": 70,
+          "August": 80,
+          "December": 40,
+          "February": 40
+        }
+      },
+      {
+        "name": "onions",
+        "temperature": 18,
+        "precipitation": {
+          "June": 25,
+          "August": 25,
+          "December": 40,
+          "February": 40
+        }
+      },
+      {
+        "name": "petits pois",
+        "temperature": 15,
+        "precipitation": {
+          "June": 25,
+          "August": 25,
+          "December": 40,
+          "February": 40
+        }
+      },
+      {
+        "name": "zucchini",
+        "temperature": 25,
+        "precipitation": {
+          "June": 70,
+          "August": 80,
+          "December": 40,
+          "February": 40
+        }
+      },
+      {
+        "name": "olives",
+        "temperature": 25,
+        "precipitation": {
+          "June": 20,
+          "August": 20,
+          "December": 40,
+          "February": 40
+        }
+      },
+      {
+        "name": "orange",
+        "temperature": 27,
+        "precipitation": {
+          "June": 50,
+          "August": 50,
+          "December": 60,
+          "February": 60
+        }
+      },
+      {
+        "name": "peach",
+        "temperature": 25,
+        "precipitation": {
+          "June": 40,
+          "August": 40,
+          "December": 50,
+          "February": 50
+        }
+      }
+    ]
+  }
+  
