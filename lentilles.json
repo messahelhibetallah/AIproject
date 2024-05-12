@@ -1,0 +1,292 @@
+{
+  "provinces": [
+    {
+      "name": "ADRAR",
+      "crop": "lentilles",
+      "production": 138,
+      "surface": 874
+    },
+    {
+      "name": "CHLEF",
+      "crop": "lentilles",
+      "production": 20280,
+      "surface": 1690
+    },
+    {
+      "name": "O.E.BOUAGHI",
+      "crop": "lentilles",
+      "production": 4374,
+      "surface": 702
+    },
+    {
+      "name": "BATNA",
+      "crop": "lentilles",
+      "production": 250,
+      "surface": 50
+    },
+    {
+      "name": "BEJAIA",
+      "crop": "lentilles",
+      "production": 18,
+      "surface": 2
+    },
+    {
+      "name": "BOUIRA",
+      "crop": "lentilles",
+      "production": 1196,
+      "surface": 112
+    },
+    {
+      "name": "TEBESSA",
+      "crop": "lentilles",
+      "production": 1483,
+      "surface": 130
+    },
+    {
+      "name": "TLEMCEN",
+      "crop": "lentilles",
+      "production": 4100,
+      "surface": 290
+    },
+    {
+      "name": "TIARET",
+      "crop": "lentilles",
+      "production": 190,
+      "surface": 8
+    },
+    {
+      "name": "TIZI-OUZOU",
+      "crop": "lentilles",
+      "production": 114,
+      "surface": 9
+    },
+    {
+      "name": "ALGER",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "DJELFA",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "JIJEL",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "SETIF",
+      "crop": "lentilles",
+      "production": 1444,
+      "surface": 271
+    },
+    {
+      "name": "SAIDA",
+      "crop": "lentilles",
+      "production": 268,
+      "surface": 41
+    },
+    {
+      "name": "SKIKDA",
+      "crop": "lentilles",
+      "production": 1142,
+      "surface": 92
+    },
+    {
+      "name": "S.B.ABBES",
+      "crop": "lentilles",
+      "production": 7520,
+      "surface": 940
+    },
+    {
+      "name": "ANNABA",
+      "crop": "lentilles",
+      "production": 631,
+      "surface": 54
+    },
+    {
+      "name": "GUELMA",
+      "crop": "lentilles",
+      "production": 19416,
+      "surface": 1290
+    },
+    {
+      "name": "CONSTANTINE",
+      "crop": "lentilles",
+      "production": 28307,
+      "surface": 3051
+    },
+    {
+      "name": "MEDEA",
+      "crop": "lentilles",
+      "production": 1483,
+      "surface": 165
+    },
+    {
+      "name": "MOSTAGANEM",
+      "crop": "lentilles",
+      "production": 80,
+      "surface": 10
+    },
+    {
+      "name": "MASCARA",
+      "crop": "lentilles",
+      "production": 580,
+      "surface": 78
+    },
+    {
+      "name": "ORAN",
+      "crop": "lentilles",
+      "production": 80,
+      "surface": 30
+    },
+    {
+      "name": "B.B.ARRERIDJ",
+      "crop": "lentilles",
+      "production": 1860,
+      "surface": 155
+    },
+    {
+      "name": "BOUMERDES",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "EL-TARF",
+      "crop": "lentilles",
+      "production": 30,
+      "surface": 10
+    },
+    {
+      "name": "TISSEMSILT",
+      "crop": "lentilles",
+      "production": 9491,
+      "surface": 1380
+    },
+    {
+      "name": "SOUK-AHRAS",
+      "crop": "lentilles",
+      "production": 33342,
+      "surface": 3479
+    },
+    {
+      "name": "TIPAZA",
+      "crop": "lentilles",
+      "production": 1241,
+      "surface": 86
+    },
+    {
+      "name": "MILA",
+      "crop": "lentilles",
+      "production": 32400,
+      "surface": 2600
+    },
+    {
+      "name": "AIN-DEFLA",
+      "crop": "lentilles",
+      "production": 1416,
+      "surface": 135
+    },
+    {
+      "name": "A.TEMOUCHENT",
+      "crop": "lentilles",
+      "production": 1590,
+      "surface": 195
+    },
+    {
+      "name": "RELIZANE",
+      "crop": "lentilles",
+      "production": 34788,
+      "surface": 4142
+    },
+    {
+      "name": "NAAMA",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "GHARDAIA",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "EL-OUED",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "KHENCHELA",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "SOUK-AHRAS",
+      "crop": "lentilles",
+      "production": 33342,
+      "surface": 3479
+    },
+    {
+      "name": "ILLIZI",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "EL-BAYADH",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "BOUMERDES",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "TINDOUF",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "M'SILA",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "OUARGLA",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "NAAMA",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "GHARDAIA",
+      "crop": "lentilles",
+      "production": 0,
+      "surface": 0
+    },
+    {
+      "name": "RELIZANE",
+      "crop": "lentilles",
+      "production": 34788,
+      "surface": 4142
+    }
+  ]
+}

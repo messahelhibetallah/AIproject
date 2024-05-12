@@ -1,0 +1,338 @@
+[
+    {
+        "WILAYA": "ADRAR",
+        "GARLIC": {
+            "Area": 176,
+            "Production": 9680
+        }
+    },
+    {
+        "WILAYA": "CHLEF",
+        "GARLIC": {
+            "Area": 67,
+            "Production": 5290
+        }
+    },
+    {
+        "WILAYA": "LAGHOUAT",
+        "GARLIC": {
+            "Area": 51,
+            "Production": 4080
+        }
+    },
+    {
+        "WILAYA": "O.E.BOUAGHI",
+        "GARLIC": {
+            "Area": 490,
+            "Production": 135600
+        }
+    },
+    {
+        "WILAYA": "BATNA",
+        "GARLIC": {
+            "Area": 789,
+            "Production": 125320
+        }
+    },
+    {
+        "WILAYA": "BEJAIA",
+        "GARLIC": {
+            "Area": 185,
+            "Production": 8633
+        }
+    },
+    {
+        "WILAYA": "BISKRA",
+        "GARLIC": {
+            "Area": 845,
+            "Production": 79100
+        }
+    },
+    {
+        "WILAYA": "BECHAR",
+        "GARLIC": {
+            "Area": 150,
+            "Production": 7190
+        }
+    },
+    {
+        "WILAYA": "BLIDA",
+        "GARLIC": {
+            "Area": 29,
+            "Production": 2345
+        }
+    },
+    {
+        "WILAYA": "BOUIRA",
+        "GARLIC": {
+            "Area": 133,
+            "Production": 4633
+        }
+    },
+    {
+        "WILAYA": "TAMANRASSET",
+        "GARLIC": {
+            "Area": 48,
+            "Production": 2955
+        }
+    },
+    {
+        "WILAYA": "TEBESSA",
+        "GARLIC": {
+            "Area": 140,
+            "Production": 18100
+        }
+    },
+    {
+        "WILAYA": "TLEMCEN",
+        "GARLIC": {
+            "Area": 220,
+            "Production": 14500
+        }
+    },
+    {
+        "WILAYA": "TIARET",
+        "GARLIC": {
+            "Area": 56,
+            "Production": 8100
+        }
+    },
+    {
+        "WILAYA": "TIZI-OUZOU",
+        "GARLIC": {
+            "Area": 322,
+            "Production": 20362
+        }
+    },
+    {
+        "WILAYA": "ALGER",
+        "GARLIC": {
+            "Area": 0,
+            "Production": 0
+        }
+    },
+    {
+        "WILAYA": "DJELFA",
+        "GARLIC": {
+            "Area": 145,
+            "Production": 11190
+        }
+    },
+    {
+        "WILAYA": "JIJEL",
+        "GARLIC": {
+            "Area": 274,
+            "Production": 11869
+        }
+    },
+    {
+        "WILAYA": "SETIF",
+        "GARLIC": {
+            "Area": 236,
+            "Production": 15263
+        }
+    },
+    {
+        "WILAYA": "SAIDA",
+        "GARLIC": {
+            "Area": 149,
+            "Production": 11910
+        }
+    },
+    {
+        "WILAYA": "SKIKDA",
+        "GARLIC": {
+            "Area": 620,
+            "Production": 38400
+        }
+    },
+    {
+        "WILAYA": "S.B.ABBES",
+        "GARLIC": {
+            "Area": 30,
+            "Production": 1440
+        }
+    },
+    {
+        "WILAYA": "ANNABA",
+        "GARLIC": {
+            "Area": 4560,
+            "Production": 140000
+        }
+    },
+    {
+        "WILAYA": "GUELMA",
+        "GARLIC": {
+            "Area": 290,
+            "Production": 17895
+        }
+    },
+    {
+        "WILAYA": "CONSTANTINE",
+        "GARLIC": {
+            "Area": 584,
+            "Production": 36660
+        }
+    },
+    {
+        "WILAYA": "MEDEA",
+        "GARLIC": {
+            "Area": 968,
+            "Production": 45870
+        }
+    },
+    {
+        "WILAYA": "MOSTAGANEM",
+        "GARLIC": {
+            "Area": 63,
+            "Production": 5820
+        }
+    },
+    {
+        "WILAYA": "M'SILA",
+        "GARLIC": {
+            "Area": 495,
+            "Production": 40968
+        }
+    },
+    {
+        "WILAYA": "MASCARA",
+        "GARLIC": {
+            "Area": 15,
+            "Production": 600
+        }
+    },
+    {
+        "WILAYA": "OUARGLA",
+        "GARLIC": {
+            "Area": 164,
+            "Production": 11074
+        }
+    },
+    {
+        "WILAYA": "ORAN",
+        "GARLIC": {
+            "Area": 8237,
+            "Production": 316
+        }
+    },
+    {
+        "WILAYA": "EL-BAYADH",
+        "GARLIC": {
+            "Area": 58,
+            "Production": 3645
+        }
+    },
+    {
+        "WILAYA": "ILLIZI",
+        "GARLIC": {
+            "Area": 2120,
+            "Production": 80
+        }
+    },
+    {
+        "WILAYA": "B.B.ARRERIDJ",
+        "GARLIC": {
+            "Area": 132,
+            "Production": 9228
+        }
+    },
+    {
+        "WILAYA": "BOUMERDES",
+        "GARLIC": {
+            "Area": 147,
+            "Production": 10162
+        }
+    },
+    {
+        "WILAYA": "EL-TARF",
+        "GARLIC": {
+            "Area": 74,
+            "Production": 6050
+        }
+    },
+    {
+        "WILAYA": "TINDOUF",
+        "GARLIC": {
+            "Area": 2105,
+            "Production": 70
+        }
+    },
+    {
+        "WILAYA": "TISSEMSILT",
+        "GARLIC": {
+            "Area": 144,
+            "Production": 3957
+        }
+    },
+    {
+        "WILAYA": "EL-OUED",
+        "GARLIC": {
+            "Area": 1800,
+            "Production": 284000
+        }
+    },
+    {
+        "WILAYA": "KHENCHELA",
+        "GARLIC": {
+            "Area": 88,
+            "Production": 3510
+        }
+    },
+    {
+        "WILAYA": "SOUK-AHRAS",
+        "GARLIC": {
+            "Area": 451,
+            "Production": 59532
+        }
+    },
+    {
+        "WILAYA": "TIPAZA",
+        "GARLIC": {
+            "Area": 129,
+            "Production": 11565
+        }
+    },
+    {
+        "WILAYA": "MILA",
+        "GARLIC": {
+            "Area": 1923,
+            "Production": 1101620
+        }
+    },
+    {
+        "WILAYA": "AIN-DEFLA",
+        "GARLIC": {
+            "Area": 275,
+            "Production": 21954
+        }
+    },
+    {
+        "WILAYA": "NAAMA",
+        "GARLIC": {
+            "Area": 37,
+            "Production": 3252
+        }
+    },
+    {
+        "WILAYA": "A.TEMOUCHENT",
+        "GARLIC": {
+            "Area": 188,
+            "Production": 6940
+        }
+    },
+    {
+        "WILAYA": "GHARDAIA",
+        "GARLIC": {
+            "Area": 109,
+            "Production": 4610
+        }
+    },
+    {
+        "WILAYA": "RELIZANE",
+        "GARLIC": {
+            "Area": 101,
+            "Production": 7220
+        }
+    }
+]

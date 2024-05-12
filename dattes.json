@@ -1,0 +1,416 @@
+[
+  {
+    "WILAYA": "ADRAR",
+    "Deglet_nour": {
+      "Surface": 28320,
+      "Production": 0
+    },
+    "Dattes_fines": {
+      "Surface": 0,
+      "Production": 0
+    },
+    "Ghers_et_analogues": {
+      "Surface": 3798759,
+      "Production": 934562
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 3798759,
+      "Production": 934562
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 3798759,
+      "Production": 1865124
+    }
+  },
+  {
+    "WILAYA": "LAGHOUAT",
+    "Deglet_nour": {
+      "Surface": 265,
+      "Production": 3880
+    },
+    "Dattes_fines": {
+      "Surface": 12740,
+      "Production": 5223
+    },
+    "Ghers_et_analogues": {
+      "Surface": 10260,
+      "Production": 4104
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 33240,
+      "Production": 13207
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 33240,
+      "Production": 25394
+    }
+  },
+  {
+    "WILAYA": "BATNA",
+    "Deglet_nour": {
+      "Surface": 207,
+      "Production": 6780
+    },
+    "Dattes_fines": {
+      "Surface": 3893,
+      "Production": 3893
+    },
+    "Ghers_et_analogues": {
+      "Surface": 6070,
+      "Production": 6070
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 16743,
+      "Production": 16743
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 16743,
+      "Production": 33586
+    }
+  },
+  {
+    "WILAYA": "BISKRA",
+    "Deglet_nour": {
+      "Surface": 43851,
+      "Production": 3070000
+    },
+    "Dattes_fines": {
+      "Surface": 2756,
+      "Production": 558000
+    },
+    "Ghers_et_analogues": {
+      "Surface": 137569,
+      "Production": 1095000
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 1099040,
+      "Production": 4723000
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 1099040,
+      "Production": 9449000
+    }
+  },
+  {
+    "WILAYA": "BECHAR",
+    "Deglet_nour": {
+      "Surface": 13919,
+      "Production": 0
+    },
+    "Dattes_fines": {
+      "Surface": 0,
+      "Production": 325230
+    },
+    "Ghers_et_analogues": {
+      "Surface": 138234,
+      "Production": 72900
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 164076,
+      "Production": 398130
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 164076,
+      "Production": 795330
+    }
+  },
+  {
+    "WILAYA": "TAMANRASSET",
+    "Deglet_nour": {
+      "Surface": 7118,
+      "Production": 0
+    },
+    "Dattes_fines": {
+      "Surface": 0,
+      "Production": 0
+    },
+    "Ghers_et_analogues": {
+      "Surface": 752310,
+      "Production": 0
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 752310,
+      "Production": 105181
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 752310,
+      "Production": 105181
+    }
+  },
+  {
+    "WILAYA": "TEBESSA",
+    "Deglet_nour": {
+      "Surface": 569,
+      "Production": 9550
+    },
+    "Dattes_fines": {
+      "Surface": 10350,
+      "Production": 10350
+    },
+    "Ghers_et_analogues": {
+      "Surface": 0,
+      "Production": 0
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 19650,
+      "Production": 19900
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 19650,
+      "Production": 39800
+    }
+  },
+  {
+    "WILAYA": "DJELFA",
+    "Deglet_nour": {
+      "Surface": 260,
+      "Production": 10470
+    },
+    "Dattes_fines": {
+      "Surface": 5400,
+      "Production": 1890
+    },
+    "Ghers_et_analogues": {
+      "Surface": 1300,
+      "Production": 850
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 2600,
+      "Production": 13210
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 2600,
+      "Production": 26120
+    }
+  },
+  {
+    "WILAYA": "M'SILA",
+    "Deglet_nour": {
+      "Surface": 0,
+      "Production": 0
+    },
+    "Dattes_fines": {
+      "Surface": 0,
+      "Production": 0
+    },
+    "Ghers_et_analogues": {
+      "Surface": 0,
+      "Production": 0
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 0,
+      "Production": 0
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 0,
+      "Production": 0
+    }
+  },
+  {
+    "WILAYA": "OUARGLA",
+    "Deglet_nour": {
+      "Surface": 22512,
+      "Production": 938022
+    },
+    "Dattes_fines": {
+      "Surface": 1435032,
+      "Production": 624831
+    },
+    "Ghers_et_analogues": {
+      "Surface": 1018559,
+      "Production": 87311
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 175223,
+      "Production": 1650164
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 175223,
+      "Production": 3311328
+    }
+  },
+  {
+    "WILAYA": "EL-BAYADH",
+    "Deglet_nour": {
+      "Surface": 477,
+      "Production": 824
+    },
+    "Dattes_fines": {
+      "Surface": 3750,
+      "Production": 3750
+    },
+    "Ghers_et_analogues": {
+      "Surface": 15900,
+      "Production": 5581
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 28200,
+      "Production": 10155
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 28200,
+      "Production": 22210
+    }
+  },
+  {
+    "WILAYA": "ILLIZI",
+    "Deglet_nour": {
+      "Surface": 1254,
+      "Production": 713
+    },
+    "Dattes_fines": {
+      "Surface": 7758,
+      "Production": 10833
+    },
+    "Ghers_et_analogues": {
+      "Surface": 58585,
+      "Production": 6646
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 43760,
+      "Production": 18192
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 43760,
+      "Production": 36584
+    }
+  },
+  {
+    "WILAYA": "TINDOUF",
+    "Deglet_nour": {
+      "Surface": 464,
+      "Production": 0
+    },
+    "Dattes_fines": {
+      "Surface": 30,
+      "Production": 10977
+    },
+    "Ghers_et_analogues": {
+      "Surface": 44511,
+      "Production": 0
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 1809,
+      "Production": 0
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 1809,
+      "Production": 10977
+    }
+  },
+  {
+    "WILAYA": "EL-OUED",
+    "Deglet_nour": {
+      "Surface": 38147,
+      "Production": 1823080
+    },
+    "Dattes_fines": {
+      "Surface": 2556875,
+      "Production": 498990
+    },
+    "Ghers_et_analogues": {
+      "Surface": 742160,
+      "Production": 430030
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 676895,
+      "Production": 2752100
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 676895,
+      "Production": 4995200
+    }
+  },
+  {
+    "WILAYA": "KHENCHELA",
+    "Deglet_nour": {
+      "Surface": 812,
+      "Production": 35300
+    },
+    "Dattes_fines": {
+      "Surface": 51400,
+      "Production": 41670
+    },
+    "Ghers_et_analogues": {
+      "Surface": 70100,
+      "Production": 6900
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 11542,
+      "Production": 83570
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 11542,
+      "Production": 167440
+    }
+  },
+  {
+    "WILAYA": "NAAMA",
+    "Deglet_nour": {
+      "Surface": 253,
+      "Production": 436
+    },
+    "Dattes_fines": {
+      "Surface": 2000,
+      "Production": 6069
+    },
+    "Ghers_et_analogues": {
+      "Surface": 39788,
+      "Production": 0
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 0,
+      "Production": 0
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 39788,
+      "Production": 6505
+    }
+  },
+  {
+    "WILAYA": "GHARDAIA",
+    "Deglet_nour": {
+      "Surface": 11359,
+      "Production": 240000
+    },
+    "Dattes_fines": {
+      "Surface": 563,
+      "Production": 100000
+    },
+    "Ghers_et_analogues": {
+      "Surface": 249,
+      "Production": 264000
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 239699,
+      "Production": 494562
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 239699,
+      "Production": 1095562
+    }
+  },
+  {
+    "WILAYA": "TOTAL ALGERIE",
+    "Deglet_nour": {
+      "Surface": 169786,
+      "Production": 6139055
+    },
+    "Dattes_fines": {
+      "Surface": 7453,
+      "Production": 2201706
+    },
+    "Ghers_et_analogues": {
+      "Surface": 4272123,
+      "Production": 3019488
+    },
+    "Degla_Beida_et_analogues": {
+      "Surface": 7337967,
+      "Production": 11360249
+    },
+    "Total_Palmier_dattier": {
+      "Surface": 19063249,
+      "Production": 57270004
+    }
+  }
+]

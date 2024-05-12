@@ -1,0 +1,338 @@
+[
+  {
+    "WILAYA": "ADRAR",
+    "PETITS_POIS": {
+      "Area": 219,
+      "Production": 10191
+    }
+  },
+  {
+    "WILAYA": "CHLEF",
+    "PETITS_POIS": {
+      "Area": 376,
+      "Production": 30080
+    }
+  },
+  {
+    "WILAYA": "LAGHOUAT",
+    "PETITS_POIS": {
+      "Area": 68,
+      "Production": 4759
+    }
+  },
+  {
+    "WILAYA": "O.E.BOUAGHI",
+    "PETITS_POIS": {
+      "Area": 0,
+      "Production": 0
+    }
+  },
+  {
+    "WILAYA": "BATNA",
+    "PETITS_POIS": {
+      "Area": 1100,
+      "Production": 1100
+    }
+  },
+  {
+    "WILAYA": "BEJAIA",
+    "PETITS_POIS": {
+      "Area": 142,
+      "Production": 5451
+    }
+  },
+  {
+    "WILAYA": "BISKRA",
+    "PETITS_POIS": {
+      "Area": 1275,
+      "Production": 140340
+    }
+  },
+  {
+    "WILAYA": "BECHAR",
+    "PETITS_POIS": {
+      "Area": 53,
+      "Production": 2363
+    }
+  },
+  {
+    "WILAYA": "BLIDA",
+    "PETITS_POIS": {
+      "Area": 220,
+      "Production": 13329
+    }
+  },
+  {
+    "WILAYA": "BOUIRA",
+    "PETITS_POIS": {
+      "Area": 163,
+      "Production": 4767
+    }
+  },
+  {
+    "WILAYA": "TAMANRASSET",
+    "PETITS_POIS": {
+      "Area": 0,
+      "Production": 0
+    }
+  },
+  {
+    "WILAYA": "TEBESSA",
+    "PETITS_POIS": {
+      "Area": 40,
+      "Production": 4650
+    }
+  },
+  {
+    "WILAYA": "TLEMCEN",
+    "PETITS_POIS": {
+      "Area": 3920,
+      "Production": 375500
+    }
+  },
+  {
+    "WILAYA": "TIARET",
+    "PETITS_POIS": {
+      "Area": 350,
+      "Production": 28000
+    }
+  },
+  {
+    "WILAYA": "TIZI-OUZOU",
+    "PETITS_POIS": {
+      "Area": 284,
+      "Production": 17727
+    }
+  },
+  {
+    "WILAYA": "ALGER",
+    "PETITS_POIS": {
+      "Area": 152,
+      "Production": 10760
+    }
+  },
+  {
+    "WILAYA": "DJELFA",
+    "PETITS_POIS": {
+      "Area": 5260,
+      "Production": 52
+    }
+  },
+  {
+    "WILAYA": "JIJEL",
+    "PETITS_POIS": {
+      "Area": 241,
+      "Production": 21852
+    }
+  },
+  {
+    "WILAYA": "SETIF",
+    "PETITS_POIS": {
+      "Area": 85,
+      "Production": 4978
+    }
+  },
+  {
+    "WILAYA": "SAIDA",
+    "PETITS_POIS": {
+      "Area": 173,
+      "Production": 12310
+    }
+  },
+  {
+    "WILAYA": "SKIKDA",
+    "PETITS_POIS": {
+      "Area": 2671,
+      "Production": 181820
+    }
+  },
+  {
+    "WILAYA": "S.B.ABBES",
+    "PETITS_POIS": {
+      "Area": 90,
+      "Production": 7560
+    }
+  },
+  {
+    "WILAYA": "ANNABA",
+    "PETITS_POIS": {
+      "Area": 153,
+      "Production": 5140
+    }
+  },
+  {
+    "WILAYA": "GUELMA",
+    "PETITS_POIS": {
+      "Area": 1500,
+      "Production": 146900
+    }
+  },
+  {
+    "WILAYA": "CONSTANTINE",
+    "PETITS_POIS": {
+      "Area": 685,
+      "Production": 22690
+    }
+  },
+  {
+    "WILAYA": "MEDEA",
+    "PETITS_POIS": {
+      "Area": 1214,
+      "Production": 45840
+    }
+  },
+  {
+    "WILAYA": "MOSTAGANEM",
+    "PETITS_POIS": {
+      "Area": 1458,
+      "Production": 100272
+    }
+  },
+  {
+    "WILAYA": "M'SILA",
+    "PETITS_POIS": {
+      "Area": 0,
+      "Production": 0
+    }
+  },
+  {
+    "WILAYA": "MASCARA",
+    "PETITS_POIS": {
+      "Area": 7256,
+      "Production": 263500
+    }
+  },
+  {
+    "WILAYA": "OUARGLA",
+    "PETITS_POIS": {
+      "Area": 13,
+      "Production": 1666
+    }
+  },
+  {
+    "WILAYA": "ORAN",
+    "PETITS_POIS": {
+      "Area": 1901,
+      "Production": 38861
+    }
+  },
+  {
+    "WILAYA": "EL-BAYADH",
+    "PETITS_POIS": {
+      "Area": 11,
+      "Production": 860
+    }
+  },
+  {
+    "WILAYA": "ILLIZI",
+    "PETITS_POIS": {
+      "Area": 8448,
+      "Production": 582
+    }
+  },
+  {
+    "WILAYA": "B.B.ARRERIDJ",
+    "PETITS_POIS": {
+      "Area": 1,
+      "Production": 60
+    }
+  },
+  {
+    "WILAYA": "BOUMERDES",
+    "PETITS_POIS": {
+      "Area": 796,
+      "Production": 54488
+    }
+  },
+  {
+    "WILAYA": "EL-TARF",
+    "PETITS_POIS": {
+      "Area": 616,
+      "Production": 18880
+    }
+  },
+  {
+    "WILAYA": "TINDOUF",
+    "PETITS_POIS": {
+      "Area": 2100,
+      "Production": 0
+    }
+  },
+  {
+    "WILAYA": "TISSEMSILT",
+    "PETITS_POIS": {
+      "Area": 101,
+      "Production": 4845
+    }
+  },
+  {
+    "WILAYA": "EL-OUED",
+    "PETITS_POIS": {
+      "Area": 358,
+      "Production": 26020
+    }
+  },
+  {
+    "WILAYA": "KHENCHELA",
+    "PETITS_POIS": {
+      "Area": 800,
+      "Production": 36000
+    }
+  },
+  {
+    "WILAYA": "SOUK-AHRAS",
+    "PETITS_POIS": {
+      "Area": 100,
+      "Production": 2500
+    }
+  },
+  {
+    "WILAYA": "TIPAZA",
+    "PETITS_POIS": {
+      "Area": 1329,
+      "Production": 88358
+    }
+  },
+  {
+    "WILAYA": "MILA",
+    "PETITS_POIS": {
+      "Area": 51,
+      "Production": 3480
+    }
+  },
+  {
+    "WILAYA": "AIN-DEFLA",
+    "PETITS_POIS": {
+      "Area": 662,
+      "Production": 46567
+    }
+  },
+  {
+    "WILAYA": "NAAMA",
+    "PETITS_POIS": {
+      "Area": 51,
+      "Production": 3015
+    }
+  },
+  {
+    "WILAYA": "A.TEMOUCHENT",
+    "PETITS_POIS": {
+      "Area": 1562,
+      "Production": 44803
+    }
+  },
+  {
+    "WILAYA": "GHARDAIA",
+    "PETITS_POIS": {
+      "Area": 10,
+      "Production": 345
+    }
+  },
+  {
+    "WILAYA": "RELIZANE",
+    "PETITS_POIS": {
+      "Area": 7797,
+      "Production": 167825
+    }
+  }
+]

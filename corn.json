@@ -1,0 +1,338 @@
+[
+    {
+        "WILAYA": "ADRAR",
+        "corn": {
+            "Area": 179,
+            "Production": 20977
+        }
+    },
+    {
+        "WILAYA": "CHLEF",
+        "corn": {
+            "Area": 40,
+            "Production": 3594
+        }
+    },
+    {
+        "WILAYA": "LAGHOUAT",
+        "corn": {
+            "Area": 548,
+            "Production": 115080
+        }
+    },
+    {
+        "WILAYA": "O.E.BOUAGHI",
+        "corn": {
+            "Area": 188,
+            "Production": 37600
+        }
+    },
+    {
+        "WILAYA": "BATNA",
+        "corn": {
+            "Area": 646,
+            "Production": 92778
+        }
+    },
+    {
+        "WILAYA": "BEJAIA",
+        "corn": {
+            "Area": 200,
+            "Production": 32269
+        }
+    },
+    {
+        "WILAYA": "BISKRA",
+        "corn": {
+            "Area": 1528,
+            "Production": 1175400
+        }
+    },
+    {
+        "WILAYA": "BECHAR",
+        "corn": {
+            "Area": 80,
+            "Production": 5596
+        }
+    },
+    {
+        "WILAYA": "BLIDA",
+        "corn": {
+            "Area": 53,
+            "Production": 20605
+        }
+    },
+    {
+        "WILAYA": "BOUIRA",
+        "corn": {
+            "Area": 123,
+            "Production": 5208
+        }
+    },
+    {
+        "WILAYA": "TAMANRASSET",
+        "corn": {
+            "Area": 33,
+            "Production": 5251
+        }
+    },
+    {
+        "WILAYA": "TEBESSA",
+        "corn": {
+            "Area": 80,
+            "Production": 8712
+        }
+    },
+    {
+        "WILAYA": "TLEMCEN",
+        "corn": {
+            "Area": 260,
+            "Production": 26000
+        }
+    },
+    {
+        "WILAYA": "TIARET",
+        "corn": {
+            "Area": 62,
+            "Production": 15500
+        }
+    },
+    {
+        "WILAYA": "TIZI-OUZOU",
+        "corn": {
+            "Area": 146,
+            "Production": 24373
+        }
+    },
+    {
+        "WILAYA": "ALGER",
+        "corn": {
+            "Area": 476,
+            "Production": 115400
+        }
+    },
+    {
+        "WILAYA": "DJELFA",
+        "corn": {
+            "Area": 58,
+            "Production": 3840
+        }
+    },
+    {
+        "WILAYA": "JIJEL",
+        "corn": {
+            "Area": 198,
+            "Production": 124388
+        }
+    },
+    {
+        "WILAYA": "SETIF",
+        "corn": {
+            "Area": 286,
+            "Production": 192924
+        }
+    },
+    {
+        "WILAYA": "SAIDA",
+        "corn": {
+            "Area": 199,
+            "Production": 43342
+        }
+    },
+    {
+        "WILAYA": "SKIKDA",
+        "corn": {
+            "Area": 164,
+            "Production": 25530
+        }
+    },
+    {
+        "WILAYA": "S.B.ABBES",
+        "corn": {
+            "Area": 70,
+            "Production": 13300
+        }
+    },
+    {
+        "WILAYA": "ANNABA",
+        "corn": {
+            "Area": 283,
+            "Production": 39670
+        }
+    },
+    {
+        "WILAYA": "GUELMA",
+        "corn": {
+            "Area": 123,
+            "Production": 17530
+        }
+    },
+    {
+        "WILAYA": "CONSTANTINE",
+        "corn": {
+            "Area": 37,
+            "Production": 5003
+        }
+    },
+    {
+        "WILAYA": "MEDEA",
+        "corn": {
+            "Area": 172,
+            "Production": 7001
+        }
+    },
+    {
+        "WILAYA": "MOSTAGANEM",
+        "corn": {
+            "Area": 493,
+            "Production": 145225
+        }
+    },
+    {
+        "WILAYA": "M'SILA",
+        "corn": {
+            "Area": 672,
+            "Production": 136475
+        }
+    },
+    {
+        "WILAYA": "MASCARA",
+        "corn": {
+            "Area": 91,
+            "Production": 5900
+        }
+    },
+    {
+        "WILAYA": "OUARGLA",
+        "corn": {
+            "Area": 168,
+            "Production": 29391
+        }
+    },
+    {
+        "WILAYA": "ORAN",
+        "corn": {
+            "Area": 16,
+            "Production": 1888
+        }
+    },
+    {
+        "WILAYA": "EL-BAYADH",
+        "corn": {
+            "Area": 37,
+            "Production": 3823
+        }
+    },
+    {
+        "WILAYA": "ILLIZI",
+        "corn": {
+            "Area": 3292,
+            "Production": 1100
+        }
+    },
+    {
+        "WILAYA": "B.B.ARRERIDJ",
+        "corn": {
+            "Area": 239,
+            "Production": 8585
+        }
+    },
+    {
+        "WILAYA": "BOUMERDES",
+        "corn": {
+            "Area": 287,
+            "Production": 69378
+        }
+    },
+    {
+        "WILAYA": "EL-TARF",
+        "corn": {
+            "Area": 235,
+            "Production": 35420
+        }
+    },
+    {
+        "WILAYA": "TINDOUF",
+        "corn": {
+            "Area": 2,
+            "Production": 1140
+        }
+    },
+    {
+        "WILAYA": "TISSEMSILT",
+        "corn": {
+            "Area": 50,
+            "Production": 3200
+        }
+    },
+    {
+        "WILAYA": "EL-OUED",
+        "corn": {
+            "Area": 630,
+            "Production": 173080
+        }
+    },
+    {
+        "WILAYA": "KHENCHELA",
+        "corn": {
+            "Area": 179,
+            "Production": 45975
+        }
+    },
+    {
+        "WILAYA": "SOUK-AHRAS",
+        "corn": {
+            "Area": 139,
+            "Production": 4780
+        }
+    },
+    {
+        "WILAYA": "TIPAZA",
+        "corn": {
+            "Area": 484,
+            "Production": 178334
+        }
+    },
+    {
+        "WILAYA": "MILA",
+        "corn": {
+            "Area": 114,
+            "Production": 28108
+        }
+    },
+    {
+        "WILAYA": "AIN-DEFLA",
+        "corn": {
+            "Area": 70,
+            "Production": 13260
+        }
+    },
+    {
+        "WILAYA": "NAAMA",
+        "corn": {
+            "Area": 47,
+            "Production": 5507
+        }
+    },
+    {
+        "WILAYA": "A.TEMOUCHENT",
+        "corn": {
+            "Area": 16,
+            "Production": 2302
+        }
+    },
+    {
+        "WILAYA": "GHARDAIA",
+        "corn": {
+            "Area": 100,
+            "Production": 10000
+        }
+    },
+    {
+        "WILAYA": "RELIZANE",
+        "corn": {
+            "Area": 51,
+            "Production": 3890
+        }
+    }
+]

@@ -1,0 +1,532 @@
+{
+  "provinces": [
+    {
+      "name": "ADRAR",
+      "BLE_DUR": {
+        "production": 415,
+        "surface": 415
+      },
+      "BLE_TENDRE": {
+        "production": 3971,
+        "surface": 3971
+      }
+    },
+    {
+      "name": "CHLEF",
+      "BLE_DUR": {
+        "production": 129617,
+        "surface": 5636
+      },
+      "BLE_TENDRE": {
+        "production": 25617,
+        "surface": 5639
+      }
+    },
+    {
+      "name": "LAGHOUAT",
+      "BLE_DUR": {
+        "production": 191,
+        "surface": 191
+      },
+      "BLE_TENDRE": {
+        "production": 7640,
+        "surface": 7640
+      }
+    },
+    {
+      "name": "O.E.BOUAGHI",
+      "BLE_DUR": {
+        "production": 720000,
+        "surface": 44900
+      },
+      "BLE_TENDRE": {
+        "production": 1140000,
+        "surface": 44900
+      }
+    },
+    {
+      "name": "BATNA",
+      "BLE_DUR": {
+        "production": 134835,
+        "surface": 902
+      },
+      "BLE_TENDRE": {
+        "production": 7905,
+        "surface": 8175
+      }
+    },
+    {
+      "name": "BEJAIA",
+      "BLE_DUR": {
+        "production": 27,
+        "surface": 97
+      },
+      "BLE_TENDRE": {
+        "production": 127069,
+        "surface": 97
+      }
+    },
+    {
+      "name": "BISKRA",
+      "BLE_DUR": {
+        "production": 225360,
+        "surface": 5550
+      },
+      "BLE_TENDRE": {
+        "production": 564075,
+        "surface": 5550
+      }
+    },
+    {
+      "name": "BECHAR",
+      "BLE_DUR": {
+        "production": 22,
+        "surface": 3
+      },
+      "BLE_TENDRE": {
+        "production": 13020,
+        "surface": 3
+      }
+    },
+    {
+      "name": "BLIDA",
+      "BLE_DUR": {
+        "production": 30829,
+        "surface": 1020
+      },
+      "BLE_TENDRE": {
+        "production": 189280,
+        "surface": 1020
+      }
+    },
+    {
+      "name": "BOUIRA",
+      "BLE_DUR": {
+        "production": 197325,
+        "surface": 6414
+      },
+      "BLE_TENDRE": {
+        "production": 1503030,
+        "surface": 6416
+      }
+    },
+    {
+      "name": "TAMANRASSET",
+      "BLE_DUR": {
+        "production": 4644,
+        "surface": 195
+      },
+      "BLE_TENDRE": {
+        "production": 8448,
+        "surface": 195
+      }
+    },
+    {
+      "name": "TEBESSA",
+      "BLE_DUR": {
+        "production": 48000,
+        "surface": 3900
+      },
+      "BLE_TENDRE": {
+        "production": 774350,
+        "surface": 4000
+      }
+    },
+    {
+      "name": "TLEMCEN",
+      "BLE_DUR": {
+        "production": 245950,
+        "surface": 25200
+      },
+      "BLE_TENDRE": {
+        "production": 663600,
+        "surface": 25200
+      }
+    },
+    {
+      "name": "TIARET",
+      "BLE_DUR": {
+        "production": 471600,
+        "surface": 49638
+      },
+      "BLE_TENDRE": {
+        "production": 1987900,
+        "surface": 63000
+      }
+    },
+    {
+      "name": "TIZI-OUZOU",
+      "BLE_DUR": {
+        "production": 2453,
+        "surface": 92
+      },
+      "BLE_TENDRE": {
+        "production": 134272,
+        "surface": 92
+      }
+    },
+    {
+      "name": "ALGER",
+      "BLE_DUR": {
+        "production": 3895,
+        "surface": 150
+      },
+      "BLE_TENDRE": {
+        "production": 45530,
+        "surface": 150
+      }
+    },
+    {
+      "name": "DJELFA",
+      "BLE_DUR": {
+        "production": 6300,
+        "surface": 210
+      },
+      "BLE_TENDRE": {
+        "production": 160700,
+        "surface": 290
+      }
+    },
+    {
+      "name": "JIJEL",
+      "BLE_DUR": {
+        "production": 0,
+        "surface": 0
+      },
+      "BLE_TENDRE": {
+        "production": 35937,
+        "surface": 0
+      }
+    },
+    {
+      "name": "SETIF",
+      "BLE_DUR": {
+        "production": 300934,
+        "surface": 16915
+      },
+      "BLE_TENDRE": {
+        "production": 2298899,
+        "surface": 16989
+      }
+    },
+    {
+      "name": "SAIDA",
+      "BLE_DUR": {
+        "production": 225497,
+        "surface": 28764
+      },
+      "BLE_TENDRE": {
+        "production": 343273,
+        "surface": 35870
+      }
+    },
+    {
+      "name": "SKIKDA",
+      "BLE_DUR": {
+        "production": 65400,
+        "surface": 2913
+      },
+      "BLE_TENDRE": {
+        "production": 665200,
+        "surface": 2913
+      }
+    },
+    {
+      "name": "S.B.ABBES",
+      "BLE_DUR": {
+        "production": 245820,
+        "surface": 28920
+      },
+      "BLE_TENDRE": {
+        "production": 503680,
+        "surface": 29860
+      }
+    },
+    {
+      "name": "ANNABA",
+      "BLE_DUR": {
+        "production": 39260,
+        "surface": 1151
+      },
+      "BLE_TENDRE": {
+        "production": 381650,
+        "surface": 13816
+      }
+    },
+    {
+      "name": "GUELMA",
+      "BLE_DUR": {
+        "production": 400990,
+        "surface": 11047
+      },
+      "BLE_TENDRE": {
+        "production": 2140900,
+        "surface": 11070
+      }
+    },
+    {
+      "name": "CONSTANTINE",
+      "BLE_DUR": {
+        "production": 612574,
+        "surface": 19747
+      },
+      "BLE_TENDRE": {
+        "production": 1780624,
+        "surface": 20104
+      }
+    },
+    {
+      "name": "MEDEA",
+      "BLE_DUR": {
+        "production": 158371,
+        "surface": 9104
+      },
+      "BLE_TENDRE": {
+        "production": 1293108,
+        "surface": 10092
+      }
+    },
+    {
+      "name": "MOSTAGANEM",
+      "BLE_DUR": {
+        "production": 217987,
+        "surface": 11473
+      },
+      "BLE_TENDRE": {
+        "production": 124089,
+        "surface": 12929
+      }
+    },
+    {
+      "name": "M'SILA",
+      "BLE_DUR": {
+        "production": 24840,
+        "surface": 1080
+      },
+      "BLE_TENDRE": {
+        "production": 236210,
+        "surface": 1353
+      }
+    },
+    {
+      "name": "MASCARA",
+      "BLE_DUR": {
+        "production": 168220,
+        "surface": 14900
+      },
+      "BLE_TENDRE": {
+        "production": 343830,
+        "surface": 20500
+      }
+    },
+    {
+      "name": "OUARGLA",
+      "BLE_DUR": {
+        "production": 12400,
+        "surface": 355
+      },
+      "BLE_TENDRE": {
+        "production": 74115,
+        "surface": 355
+      }
+    },
+    {
+      "name": "ORAN",
+      "BLE_DUR": {
+        "production": 6169,
+        "surface": 863
+      },
+      "BLE_TENDRE": {
+        "production": 31980,
+        "surface": 2824
+      }
+    },
+    {
+      "name": "EL-BAYADH",
+      "BLE_DUR": {
+        "production": 25430,
+        "surface": 1014
+      },
+      "BLE_TENDRE": {
+        "production": 56335,
+        "surface": 1185
+      }
+    },
+    {
+      "name": "ILLIZI",
+      "BLE_DUR": {
+        "production": 691,
+        "surface": 25
+      },
+      "BLE_TENDRE": {
+        "production": 235,
+        "surface": 25
+      }
+    },
+    {
+      "name": "B.B.ARRERIDJ",
+      "BLE_DUR": {
+        "production": 81700,
+        "surface": 5636
+      },
+      "BLE_TENDRE": {
+        "production": 800922,
+        "surface": 5645
+      }
+    },
+    {
+      "name": "BOUMERDES",
+      "BLE_DUR": {
+        "production": 18285,
+        "surface": 590
+      },
+      "BLE_TENDRE": {
+        "production": 87405,
+        "surface": 592
+      }
+    },
+    {
+      "name": "EL-TARF",
+      "BLE_DUR": {
+        "production": 20240,
+        "surface": 842
+      },
+      "BLE_TENDRE": {
+        "production": 530386,
+        "surface": 867
+      }
+    },
+    {
+      "name": "TINDOUF",
+      "BLE_DUR": {
+        "production": 28,
+        "surface": 25
+      },
+      "BLE_TENDRE": {
+        "production": 0,
+        "surface": 0
+      }
+    },
+    {
+      "name": "TISSEMSILT",
+      "BLE_DUR": {
+        "production": 59132,
+        "surface": 3500
+      },
+      "BLE_TENDRE": {
+        "production": 994015,
+        "surface": 57000
+      }
+    },
+    {
+      "name": "EL-OUED",
+      "BLE_DUR": {
+        "production": 0,
+        "surface": 0
+      },
+      "BLE_TENDRE": {
+        "production": 260640,
+        "surface": 7200
+      }
+    },
+    {
+      "name": "KHENCHELA",
+      "BLE_DUR": {
+        "production": 173000,
+        "surface": 8575
+      },
+      "BLE_TENDRE": {
+        "production": 837000,
+        "surface": 9000
+      }
+    },
+    {
+      "name": "SOUK-AHRAS",
+      "BLE_DUR": {
+        "production": 585449,
+        "surface": 32755
+      },
+      "BLE_TENDRE": {
+        "production": 1305130,
+        "surface": 88101
+      }
+    },
+    {
+      "name": "TIPAZA",
+      "BLE_DUR": {
+        "production": 42701,
+        "surface": 1454
+      },
+      "BLE_TENDRE": {
+        "production": 286378,
+        "surface": 1532
+      }
+    },
+    {
+      "name": "MILA",
+      "BLE_DUR": {
+        "production": 553000,
+        "surface": 18988
+      },
+      "BLE_TENDRE": {
+        "production": 2225000,
+        "surface": 19100
+      }
+    },
+    {
+      "name": "AIN-DEFLA",
+      "BLE_DUR": {
+        "production": 52600,
+        "surface": 1780
+      },
+      "BLE_TENDRE": {
+        "production": 1642400,
+        "surface": 1780
+      }
+    },
+    {
+      "name": "NAAMA",
+      "BLE_DUR": {
+        "production": 2896,
+        "surface": 199
+      },
+      "BLE_TENDRE": {
+        "production": 5288,
+        "surface": 338
+      }
+    },
+    {
+      "name": "A.TEMOUCHENT",
+      "BLE_DUR": {
+        "production": 33340,
+        "surface": 3166
+      },
+      "BLE_TENDRE": {
+        "production": 599310,
+        "surface": 5000
+      }
+    },
+    {
+      "name": "GHARDAIA",
+      "BLE_DUR": {
+        "production": 0,
+        "surface": 0
+      },
+      "BLE_TENDRE": {
+        "production": 235000,
+        "surface": 6060
+      }
+    },
+    {
+      "name": "RELIZANE",
+      "BLE_DUR": {
+        "production": 191792,
+        "surface": 14802
+      },
+      "BLE_TENDRE": {
+        "production": 1309159,
+        "surface": 17384
+      }
+    }
+  ]
+}
