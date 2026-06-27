@@ -145,6 +145,8 @@ The project includes map visualization using:
 - CSS
 - JavaScript
 
+<img width="3060" height="1626" alt="image" src="https://github.com/user-attachments/assets/0bb5fa4f-3d0c-42b0-b846-78cc1edb529e" />
+
 Attempts were also made using:
 
 - GeoPandas
